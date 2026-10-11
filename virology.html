@@ -7,8 +7,8 @@
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; line-height: 1.6; padding: 20px; }
         
-        /* 確保中央主要卡片框為純白色背景 */
-        .container { max-width: 800px; margin: 0 auto; background-color: #ffffff !important; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); }
+        /* 中央容器卡片 */
+        .container { max-width: 800px; margin: 0 auto; background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); }
         
         .header-bar { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #ecf0f1; padding-bottom: 15px; margin-bottom: 20px; }
         h1 { color: #3498db; font-size: 24px; margin: 0; }
@@ -17,6 +17,9 @@
         
         .screen { display: none; }
         .screen.active { display: block; }
+        
+        /* 開始頁面的白色質感背板 */
+        .start-card { background: #ffffff; padding: 30px 20px; border-radius: 10px; border: 1px solid #e1e8ed; text-align: center; }
         
         .btn { display: inline-block; background: #3498db; color: #fff; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; margin-top: 15px; transition: 0.3s; }
         .btn:hover { background: #2980b9; }
@@ -43,12 +46,14 @@
         
         <!-- 首頁 -->
         <div id="start-screen" class="screen active">
-            <h3 style="text-align: center;">病毒學題庫已準備就緒</h3>
-            <div style="text-align: center; margin-top: 30px;">
-                <label for="question-count" style="font-size: 18px;">請選擇本次測驗題數：</label>
-                <input type="number" id="question-count" value="20" min="1" max="500" style="padding: 8px; font-size: 16px; width: 80px; border: 1px solid #ccc; border-radius: 4px;">
-                <br><br>
-                <button class="btn" id="start-btn">開始測驗</button>
+            <div class="start-card">
+                <h3>題庫已準備就緒</h3>
+                <div style="margin-top: 25px;">
+                    <label for="question-count" style="font-size: 18px;">請選擇本次測驗題數：</label>
+                    <input type="number" id="question-count" value="20" min="1" max="500" style="padding: 8px; font-size: 16px; width: 80px; border: 1px solid #ccc; border-radius: 4px;">
+                    <br><br>
+                    <button class="btn" id="start-btn">開始測驗</button>
+                </div>
             </div>
         </div>
 
