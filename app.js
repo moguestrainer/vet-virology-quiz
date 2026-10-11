@@ -1,4 +1,3 @@
-JavaScript
 let allQuestions = [];
 let currentQuiz = [];
 let currentIndex = 0;
