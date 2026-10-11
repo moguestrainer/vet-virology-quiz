@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>獸醫學科隨機測驗系統</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f4f7f6; color: #333; line-height: 1.6; padding: 40px 20px; }
+        .container { max-width: 600px; margin: 40px auto; background: #ffffff; padding: 40px 30px; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.06); text-align: center; }
+        h1 { color: #2c3e50; font-size: 26px; margin-bottom: 10px; font-weight: 700; }
+        p.subtitle { color: #7f8c8d; font-size: 15px; margin-bottom: 35px; }
+        .card-grid { display: flex; flex-direction: column; gap: 18px; }
+        .btn-card { display: flex; align-items: center; justify-content: space-between; padding: 20px 25px; border-radius: 12px; text-decoration: none; color: #ffffff; font-size: 18px; font-weight: 600; transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .btn-card:hover { transform: translateY(-3px); box-shadow: 0 6px 15px rgba(0,0,0,0.1); }
+        
+        /* 科目專屬色彩 */
+        .virology { background: linear-gradient(135deg, #3498db, #2980b9); }
+        .biochem { background: linear-gradient(135deg, #27ae60, #219150); }
+        
+        .tag { font-size: 12px; background: rgba(255,255,255,0.25); padding: 4px 10px; border-radius: 20px; font-weight: normal; }
+        footer { margin-top: 40px; color: #bdc3c7; font-size: 13px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>獸醫學科線上刷題系統</h1>
+        <p class="subtitle">請選擇欲進行測驗的科目：</p>
+        
+        <div class="card-grid">
+            <a href="virology.html" class="btn-card virology">
+                <span>🦠 獸醫病毒學</span>
+                <span class="tag">隨機測驗</span>
+            </a>
+            
+            <a href="bioindex.html" class="btn-card biochem">
+                <span>🧪 獸醫生物化學</span>
+                <span class="tag">隨機測驗</span>
+            </a>
+        </div>
+
+        <footer>獸醫題庫系統版權所有</footer>
+    </div>
+</body>
+</html>
