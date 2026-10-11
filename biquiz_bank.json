@@ -1,0 +1,1677 @@
+[
+  {
+    "id": "BIO-W04-01",
+    "subject": "生物化學",
+    "question": "在反芻動物中,哪一種揮發性脂肪酸最重要,可作為葡萄糖新生的原料?",
+    "options": {
+      "A": "Acetate",
+      "B": "Propionate",
+      "C": "Butyrate",
+      "D": "Lactate"
+    },
+    "answer": "B",
+    "explanation": "丙酸(Propionate)是反芻動物肝臟進行糖質新生最重要的前驅物。"
+  },
+  {
+    "id": "BIO-W04-02",
+    "subject": "生物化學",
+    "question": "某隻犬罹患糖尿病,其高血糖最主要原因為何?",
+    "options": {
+      "A": "葡萄糖過度進入細胞",
+      "B": "肝醣大量合成",
+      "C": "細胞無法有效利用葡萄糖",
+      "D": "腎臟排出過多糖分"
+    },
+    "answer": "C",
+    "explanation": "胰島素不足時:細胞吸收葡萄糖能力下降,肝臟卻持續製造葡萄糖造成高血糖。"
+  },
+  {
+    "id": "BIO-W04-03",
+    "subject": "生物化學",
+    "question": "下列哪種組織最依賴葡萄糖作為能量來源?",
+    "options": {
+      "A": "紅血球",
+      "B": "脂肪組織",
+      "C": "骨骼肌",
+      "D": "肝臟"
+    },
+    "answer": "A",
+    "explanation": "紅血球沒有粒線體,因此無法進行TCA cycle與氧化磷酸化只能依賴糖解作用取得ATP。"
+  },
+  {
+    "id": "BIO-W04-04",
+    "subject": "生物化學",
+    "question": "一隻8歲已絕育母犬因多渴、多尿、多食但體重下降就診。檢驗結果:血糖:420 mg/dL、尿糖(+)、酮體(+),則最主要的病理機制為何?",
+    "options": {
+      "A": "肝臟無法分解肝醣",
+      "B": "胰島素不足導致細胞無法攝取葡萄糖",
+      "C": "葡萄糖吸收過度增加",
+      "D": "甲狀腺素分泌下降"
+    },
+    "answer": "B",
+    "explanation": "缺乏胰島素時:肌肉無法攝取葡萄糖,脂肪組織無法利用葡萄糖讓身體誤以為處於飢餓狀態。"
+  },
+  {
+    "id": "BIO-W04-05",
+    "subject": "生物化學",
+    "question": "賽馬參加競賽後出現肌肉疼痛與尿液變深,若與PSSM有關,下列何者正確?",
+    "options": {
+      "A": "肝臟肝醣缺乏",
+      "B": "肌肉異常儲存肝醣",
+      "C": "糖質新生下降",
+      "D": "升糖素缺乏"
+    },
+    "answer": "B",
+    "explanation": "PSSM(Polysaccharide Storage Myopathy),特徵為肌肉肝醣累積過多運動後代謝異常導致肌肉受損。"
+  },
+  {
+    "id": "BIO-W04-06",
+    "subject": "生物化學",
+    "question": "有關腸腔中醣類吸收的敘述,下列何者正確?",
+    "options": {
+      "A": "胰島素可刺激大量葡萄糖進入腸上皮細胞",
+      "B": "蔗糖與麥芽糖利用同一種運送方式進入腸上皮細胞",
+      "C": "腸道每小時最多只能吸收約12g 葡萄糖",
+      "D": "半乳糖藉由次級主動運輸(secondary active transport)進入腸上皮細胞"
+    },
+    "answer": "D",
+    "explanation": "Glucose 和 galactose 在腸上皮頂端主要藉 SGLT1, Na-dependent secondary active transport 進入細胞; fructose 則主要經 GLUT5 facilitated diffusion。"
+  },
+  {
+    "id": "BIO-W04-07",
+    "subject": "生物化學",
+    "question": "有關檸檬酸循環(TCA cycle) 中酵素與調節的敘述,下列何者錯誤?",
+    "options": {
+      "A": "a-Ketoglutarate dehydrogenase complex 受到 succinyl-CoA、NADH 活化",
+      "B": "Citrate synthase 可受到 succinyl-CoA、NADH抑制",
+      "C": "Isocitrate dehydrogenase 可受到 ADP 活化",
+      "D": "Pyruvate dehydrogenase complex 可受到NADH、acetyl-CoA 抑制"
+    },
+    "answer": "A",
+    "explanation": "NADH、succinyl-CoA 上升會抑制 a-ketoglutarate dehydrogenase 而不是活化。"
+  },
+  {
+    "id": "BIO-W04-08",
+    "subject": "生物化學",
+    "question": "五碳糖磷酸途徑(Pentose phosphate pathway,PPP)的主要功能為何?",
+    "options": {
+      "A": "和 glycolysis一樣,是提供ATP的主要途徑",
+      "B": "提供 pentose sugar 與NADPH",
+      "C": "提供 pentose sugar 與 ATP",
+      "D": "利用胺基酸碳骨架合成醣類"
+    },
+    "answer": "B",
+    "explanation": "PPP 主要提供 NADPH 與 Ribose-5-phosphate。"
+  },
+  {
+    "id": "BIO-W04-09",
+    "subject": "生物化學",
+    "question": "下列何者最符合檸檬酸循環中間產物的正確順序?",
+    "options": {
+      "A": "Citrate -> Isocitrate -> Fumarate -> Oxaloacetate",
+      "B": "Citrate -> Isocitrate -> a-ketoglutarate -> Succinyl-CoA -> Succinate -> Fumarate -> Malate -> Oxaloacetate",
+      "C": "Citrate -> a-ketoglutarate -> Oxaloacetate -> Succinate -> Malate -> Succinyl-CoA -> Isocitrate -> Fumarate -> Succinate",
+      "D": "Oxaloacetate -> Succinate -> Citrate -> Fumarate -> Malate"
+    },
+    "answer": "B",
+    "explanation": "檸檬酸循環的中間產物順序為 Citrate -> Isocitrate -> a-ketoglutarate -> Succinyl-CoA -> Succinate -> Fumarate -> Malate -> Oxaloacetate。"
+  },
+  {
+    "id": "BIO-W04-10",
+    "subject": "生物化學",
+    "question": "關於 glycogen,下列敘述何者最正確?",
+    "options": {
+      "A": "主要由 beta(1->4) glycosidic bonds 組成",
+      "B": "是完全不分枝的 glucose polymer",
+      "C": "主鏈以 alpha(1->4) 鍵連結,分枝處為 alpha(1->6) 鍵",
+      "D": "動物肝醣分解時主要直接產生 free glucose"
+    },
+    "answer": "C",
+    "explanation": "Glycogen 具有 alpha (1->4) 主鏈加上 alpha (1->6) 分枝；glycogen phosphorylase 主要產生 Glucose-1-phosphate。"
+  },
+  {
+    "id": "BIO-W04-11",
+    "subject": "生物化學",
+    "question": "一頭1週齡、慢性腹瀉的小牛,出現沉鬱、運動失調、吸吮反射減弱。血檢顯示代謝性酸中毒,anion gap升高,但L-lactate 正常。最可能的原因是?",
+    "options": {
+      "A": "組織缺氧,造成L-lactate 堆積",
+      "B": "腸道細菌發酵醣類,產生D-lactate,經吸收後堆積",
+      "C": "肝臟 lactate dehydrogenase 缺乏",
+      "D": "Pyruvate carboxylase 缺乏"
+    },
+    "answer": "B",
+    "explanation": "醣類未能在小腸正常吸收而進入大腸，由革蘭氏陽性厭氧菌發酵成D-lactate，經吸收後堆積造成腦病變。"
+  },
+  {
+    "id": "BIO-W04-12",
+    "subject": "生物化學",
+    "question": "升糖激素(glucagon)透過下列哪一個第二訊息傳遞者(second messengers),調節肝醣磷酸化酶(glycogen phosphorylase)的活性?",
+    "options": {
+      "A": "Calcium ions",
+      "B": "Cyclic guanosine 3', 5'-monophosphate (cGMP)",
+      "C": "Phosphatidylinositol",
+      "D": "Cyclic adenosine 3',5'-monophosphate (cAMP)"
+    },
+    "answer": "D",
+    "explanation": "Glucagon 結合肝細胞上的受體活化 adenylyl cyclase，使 cAMP 上升並活化 PKA 途徑，進而促使肝醣分解。"
+  },
+  {
+    "id": "BIO-W04-13",
+    "subject": "生物化學",
+    "question": "下列關於反芻動物(如乳牛)碳水化合物代謝的敘述,何者正確?",
+    "options": {
+      "A": "反芻動物從小腸吸收的葡萄糖,是其體內最主要的血糖來源",
+      "B": "瘤胃微生物發酵產生的揮發性脂肪酸(VFAs)中,丙酸(propionate)是糖質新生(gluconeogenesis)最重要的原料",
+      "C": "乙酸(acetate)在肝臟中可以被大量轉化為葡萄糖,以維持血糖恆定",
+      "D": "丁酸(butyrate)主要在肌肉組織中被利用,完全不會經過瘤胃壁的代謝"
+    },
+    "answer": "B",
+    "explanation": "丙酸是唯一能大量進入 TCA cycle 進行糖質新生的揮發性脂肪酸，是乳牛維持血糖的重要關鍵。"
+  },
+  {
+    "id": "BIO-W04-14",
+    "subject": "生物化學",
+    "question": "當肝組織中 ATP/ADP比值上升時,下列何者會增加?",
+    "options": {
+      "A": "肝醣(glycogen)的水解",
+      "B": "AMP的濃度",
+      "C": "糖解作用(glycolysis)",
+      "D": "糖質新生作用(gluconeogenesis)"
+    },
+    "answer": "D",
+    "explanation": "ATP/ADP 比值上升代表細胞能量充足，此時會傾向透過糖質新生將多餘能量轉換為糖原儲存。"
+  },
+  {
+    "id": "BIO-W04-15",
+    "subject": "生物化學",
+    "question": "有關肝醣合成酶(glycogen synthase)參與肝醣合成之敘述,何者正確?",
+    "options": {
+      "A": "此酵素被磷酸化後可被活化",
+      "B": "此酵素只存在於肝臟",
+      "C": "利用 glucose-6-phosphate 做為葡萄糖單元的供給者",
+      "D": "將葡萄糖殘基以(1→4)鍵結至肝醣鏈(glycogen chain)之非還原端"
+    },
+    "answer": "D",
+    "explanation": "Glycogen synthase 會把 UDP-glucose 的葡萄糖基轉移到肝醣鏈的非還原端，並以 alpha-1,4 鍵結接上。"
+  },
+  {
+    "id": "BIO-W04-16",
+    "subject": "生物化學",
+    "question": "在肝臟的肝醣合成(glycogenesis)過程中,葡萄糖被轉換成 glucose-6-phosphate,主要是透過何種酵素的作用?",
+    "options": {
+      "A": "glucokinase",
+      "B": "hexokinase",
+      "C": "phosphoglucomutase",
+      "D": "phosphorylase"
+    },
+    "answer": "A",
+    "explanation": "在肝醣合成的第一步，葡萄糖進入細胞後由肝臟特異的 glucokinase 磷酸化轉變為 G6P 以鎖在細胞內。"
+  },
+  {
+    "id": "BIO-W04-17",
+    "subject": "生物化學",
+    "question": "有關原發性乳糖不耐症(primary lactose intolerance)的敘述,下列何者錯誤?",
+    "options": {
+      "A": "於小腸中製造的乳糖酶(lactase)量不足",
+      "B": "因對乳糖抗原過敏所致",
+      "C": "可替代性攝取優格、優酪乳等發酵乳製品",
+      "D": "大量攝取含乳糖之食品會導致腹瀉"
+    },
+    "answer": "B",
+    "explanation": "乳糖不耐症屬於消化吸收不良的酵素缺乏問題，完全不涉及免疫系統的抗原過敏反應。"
+  },
+  {
+    "id": "BIO-W04-18",
+    "subject": "生物化學",
+    "question": "關於革蘭氏陰性菌細胞壁上的脂多醣(lipopolysaccharide; LPS) 構造與功能,下列敘述何者正確?",
+    "options": {
+      "A": "脂多醣構造主要由兩大區域組成:核心區與脂質 A",
+      "B": "引起宿主毒性與免疫反應的主要區域為脂質 A(lipid A)",
+      "C": "脂質 A含有兩個D-葡萄糖胺,並以-1,4-糖苷鍵相互鏈結",
+      "D": "改變脂肪酸鏈的結構並不會影響其毒性"
+    },
+    "answer": "B",
+    "explanation": "革蘭氏陰性菌的脂多醣中，引起宿主毒性與免疫反應的主要區域為脂質 A(lipid A)。"
+  },
+  {
+    "id": "BIO-W04-19",
+    "subject": "生物化學",
+    "question": "當組織受到大腸桿菌感染引發發炎反應時,血管內皮細胞與白血球之間的交互作用順序與機制,下列敘述何者正確?",
+    "options": {
+      "A": "P、E選擇素(selectin)屬於需要鎂離子參與活化的凝集素",
+      "B": "血管內皮細胞會先表現細胞黏附分子(ICAM)與白血球上的Saliyl-Lewisx 結合以牽引白血球,隨後內皮細胞才大量表現E選擇素(E-selectin)",
+      "C": "血管內皮細胞受刺激後大量表現E選擇素,與白血球上的Saliyl-Lewisx 結合而牽引白血球附著",
+      "D": "Saliyl-Lewisx的寡糖鏈不論其結構有無-1,3-岩藻醣轉移酶(fucosyltransferase)參與,都能成功將白血球細胞膜上配位體和E選擇素結合"
+    },
+    "answer": "C",
+    "explanation": "血管內皮細胞受刺激後大量表現E選擇素，與白血球上的 Saliyl-Lewisx 結合而牽引白血球附著。"
+  },
+  {
+    "id": "BIO-W04-20",
+    "subject": "生物化學",
+    "question": "下列關於 disaccharides 的敘述,何者正確?",
+    "options": {
+      "A": "雙醣是由3個以上的單醣分子所組成",
+      "B": "乳糖是由葡萄糖與果糖結合而成",
+      "C": "麥芽糖是由2個葡萄糖分子經 -1,4-glycosidic bond 結合形成",
+      "D": "蔗糖具有游離的 hemiacetal end,因此屬於有 reducing end的glycan"
+    },
+    "answer": "B",
+    "explanation": "依據原始講義考題之標準答案為B。"
+  },
+  {
+    "id": "BIO-W04-21",
+    "subject": "生物化學",
+    "question": "下列何者的水解產物有Galactose?",
+    "options": {
+      "A": "直鏈澱粉",
+      "B": "乳糖",
+      "C": "麥芽糖",
+      "D": "蔗糖"
+    },
+    "answer": "B",
+    "explanation": "乳糖(Lactose)完全水解後會得到 Galactose (半乳糖) 與 Glucose (葡萄糖)。"
+  },
+  {
+    "id": "BIO-W04-22",
+    "subject": "生物化學",
+    "question": "蔗糖(sucrose)是由下列何者所組成的雙醣?",
+    "options": {
+      "A": "果糖(fructose)、果糖(fructose)",
+      "B": "半乳糖(galactose)、果糖(fructose)",
+      "C": "葡萄糖(glucose)、果糖(fructose)",
+      "D": "葡萄糖(glucose)、葡萄糖(glucose)"
+    },
+    "answer": "C",
+    "explanation": "蔗糖(Sucrose)是由葡萄糖(glucose)與果糖(fructose)所組成的雙醣。"
+  },
+  {
+    "id": "BIO-W04-23",
+    "subject": "生物化學",
+    "question": "糖質新生作用(gluconeogenesis) 主要在肝臟與腎皮質中進行,但是卻無法在肌肉進行,主要是因為肌肉缺乏下列何種酵素?",
+    "options": {
+      "A": "果糖-1,6-二磷酸水解酶",
+      "B": "葡萄糖-6-磷酸水解酶",
+      "C": "己糖激酶",
+      "D": "丙酮酸激酶"
+    },
+    "answer": "B",
+    "explanation": "肌肉組織缺乏葡萄糖-6-磷酸水解酶，無法將葡萄糖-6-磷酸脫去磷酸根轉化為游離葡萄糖釋放至血液中。"
+  },
+  {
+    "id": "BIO-W04-24",
+    "subject": "生物化學",
+    "question": "每分子葡萄糖從醣解到檸檬酸循環代謝結束時,總共會產生多少分子的NADH 及FADH2?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "D",
+    "explanation": "醣解產生 2 NADH、丙酮酸氧化產生 2 NADH、TCA 循環產生 6 NADH 與 2 FADH2，總計產生 10 分子 NADH 與 2 分子 FADH2（共 12 分子）。"
+  },
+  {
+    "id": "BIO-W04-25",
+    "subject": "生物化學",
+    "question": "下列何者可以透過肝臟的葡萄糖新生作用(gluconeogenesis)轉化成葡萄糖?",
+    "options": {
+      "A": "脂肪酸",
+      "B": "肝醣",
+      "C": "甘油",
+      "D": "ATP"
+    },
+    "answer": "C",
+    "explanation": "甘油經轉化後可成為糖質新生途徑中的中間產物（DHAP），是脂肪分子中能轉化為葡萄糖的主要成分。"
+  },
+  {
+    "id": "BIO-W04-26",
+    "subject": "生物化學",
+    "question": "單醣中,若兩個糖僅在單一對掌碳原子的構型上有所不同(例如葡萄糖與半乳糖在C4處),這類醣類被稱為?",
+    "options": {
+      "A": "差向異構物(Epimers)",
+      "B": "對映異構物 (Enantiomers)",
+      "C": "異頭物(Anomers)",
+      "D": "結構異構物(Structural isomers)"
+    },
+    "answer": "A",
+    "explanation": "結構僅在單一碳原子周圍構型不同的糖對稱為差向異構物(epimers)。"
+  },
+  {
+    "id": "BIO-W04-27",
+    "subject": "生物化學",
+    "question": "當單醣在水溶液中形成環狀結構時,原本的羰基碳(carbonyl carbon)會轉變為一個新的不對稱中心,此碳原子稱為?",
+    "options": {
+      "A": "差向碳(Epimeric carbon)",
+      "B": "異頭碳原子(Anomeric carbon atom)",
+      "C": "終端碳(Terminal carbon)",
+      "D": "幾何碳(Geometrical carbon)"
+    },
+    "answer": "B",
+    "explanation": "在環化過程中,羰基碳會變成對掌碳原子,稱為異頭碳原子(anomeric carbon atom)。"
+  },
+  {
+    "id": "BIO-W04-28",
+    "subject": "生物化學",
+    "question": "下列哪一種雙醣是由兩個葡萄糖殘基透過彼此的異頭碳原子(C1與C1)以鍵相連,因此不具還原性且不會發生變旋(mutarotation) ?",
+    "options": {
+      "A": "麥芽糖(Maltose)",
+      "B": "乳糖(Lactose)",
+      "C": "海藻糖(Trehalose)",
+      "D": "蔗糖(Sucrose)"
+    },
+    "answer": "C",
+    "explanation": "海藻糖(trehalose)的兩個葡萄糖透過雙方的異頭碳原子相連,因此不是還原糖,也不會展現變旋現象。"
+  },
+  {
+    "id": "BIO-W04-29",
+    "subject": "生物化學",
+    "question": "在醣蛋白(Glycoproteins)中,醣類與蛋白質形成N-醣苷鍵(N-glycosidic linkage)時,參與鍵結的蛋白質胺基酸殘基通常為?",
+    "options": {
+      "A": "絲胺酸(Serine)",
+      "B": "天門冬醯胺(Asparagine)",
+      "C": "蘇胺酸(Threonine)",
+      "D": "離胺酸(Lysine)"
+    },
+    "answer": "B",
+    "explanation": "參與N-醣苷鍵的胺基酸殘基為天門冬醯胺(asparagine)。"
+  },
+  {
+    "id": "BIO-W04-30",
+    "subject": "生物化學",
+    "question": "下列關於肝臟與胰臟細胞中的葡萄糖激酶(Glucokinase / Hexokinase IV) 之敘述,何者正確?",
+    "options": {
+      "A": "其對葡萄糖的值很低(約0.1mM),在正常濃度下容易飽和",
+      "B": "會受到葡萄糖-6-磷酸的強烈變構抑制",
+      "C": "僅存在於肝細胞與胰臟島細胞中",
+      "D": "在飢餓或低血糖時其表現量會上升"
+    },
+    "answer": "C",
+    "explanation": "葡萄糖激酶僅存在於肝細胞與胰臟細胞中，不受葡萄糖-6-磷酸抑制。"
+  },
+  {
+    "id": "BIO-W04-31",
+    "subject": "生物化學",
+    "question": "關於單醣(Monosaccharides)的化學結構與立體異構(Stereoisomerism)敘述,下列何者最為正確?",
+    "options": {
+      "A": "D-葡萄糖與D-半乳糖在C-2 位置構型不同,互為對映異構物",
+      "B": "葡萄糖形成環狀半縮醛時,C-1碳原子轉變為非對稱異頭碳,進而產生 alpha 與 beta 兩種異頭物",
+      "C": "人體與動物體內能被酵素利用代謝的單醣,絕大多數屬於L-型構形",
+      "D": "果糖為六碳醛醣,具備強烈的還原性"
+    },
+    "answer": "B",
+    "explanation": "葡萄糖由鏈狀變為環狀結構時，C-1上的醛基羰基碳轉變為全新的對稱/對映中心，稱為異頭碳(Anomeric carbon)，羥基朝下者為 alpha-D-glucose，朝上者為 beta-D-glucose，兩者互為異頭物。"
+  },
+  {
+    "id": "BIO-W04-32",
+    "subject": "生物化學",
+    "question": "雙醣與多醣是由單醣透過糖苷鍵(Glycosidic bond) 縮合而成。下列關於常見醣類鏈結方式與化學性質的敘述,何者最為正確?",
+    "options": {
+      "A": "蔗糖由葡萄糖與果糖經 alpha-1,4-糖苷鍵結合,屬於還原糖",
+      "B": "麥芽糖由兩分子葡萄糖經 alpha-1,4-糖苷鍵結合,不具還原性",
+      "C": "糖原與澱粉的主鏈均由 alpha-1,4-糖苷鍵連結,分支點則為 alpha-1,6-糖苷鍵",
+      "D": "纖維素由葡萄糖經 alpha-1,4-糖苷鍵連結,可被單胃動物的消化酵素輕鬆水解"
+    },
+    "answer": "C",
+    "explanation": "動物體內的儲存多醣糖原與植物的支鏈澱粉，其直鏈主鏈均由 alpha-1,4-糖苷鍵形成，分支處則透過 alpha-1,6-糖苷鍵連接。"
+  },
+  {
+    "id": "BIO-W04-33",
+    "subject": "生物化學",
+    "question": "糖解作用(Glycolysis) 是細胞擷取葡萄糖能量的主要途徑。下列關於糖解作用反應步驟與限速酵素調控的敘述,何者最為正確?",
+    "options": {
+      "A": "磷酸果糖激酶-1催化葡萄糖轉變為葡萄糖-6-磷酸,為第一步限速反應",
+      "B": "高濃度的ATP 與檸檬酸會別構激活 PFK-1,從而加快糖解速率",
+      "C": "果糖-2,6-二磷酸是PFK-1 最強烈的別構激活劑",
+      "D": "糖解作用整個過程中均不需要消耗任何ATP,淨生成4分子 ATP"
+    },
+    "answer": "C",
+    "explanation": "胰島素誘導生成的 F-2,6-BP 是 PFK-1 最強效的別構激活劑，能顯著克服 ATP 的抑制作用並促進糖解進行。"
+  },
+  {
+    "id": "BIO-W04-34",
+    "subject": "生物化學",
+    "question": "臨床上進行D-木醣(D-xylose)吸收試驗的主要診斷目的為何?",
+    "options": {
+      "A": "評估胰臟外分泌消化酵素的分泌功能",
+      "B": "檢測小腸前段(近端小腸)黏膜的吸收功能",
+      "C": "診斷動物是否患有糖尿病或胰島素抵抗",
+      "D": "評估肝臟糖質新生的代謝能力"
+    },
+    "answer": "B",
+    "explanation": "D-木醣為五碳單醣，不需經胰臟消化酵素分解即可直接由小腸前段空腸黏膜吸收，故可專一性診斷小腸吸收不良。"
+  },
+  {
+    "id": "BIO-W04-35",
+    "subject": "生物化學",
+    "question": "在犬貓糖尿病與血糖調控診斷中,血清果糖胺濃度主要反映檢驗前多久時間內的平均血糖濃度?",
+    "options": {
+      "A": "檢驗當下即時的血糖濃度",
+      "B": "檢驗前1至3天",
+      "C": "檢驗前2至3週",
+      "D": "檢驗前3至4個月"
+    },
+    "answer": "C",
+    "explanation": "血清果糖胺是葡萄糖與血清白蛋白質經非酵素性糖化作用結合的產物，因白蛋白質半衰期約 2 至 3 週，故可反映過去 2 至 3 週內的平均血糖狀況。"
+  },
+  {
+    "id": "BIO-W04-36",
+    "subject": "生物化學",
+    "question": "糖解作用(glycolysis) 過程中,第一個被磷酸化(phosphorylation)的產物為何?",
+    "options": {
+      "A": "glucose 1-phosphate",
+      "B": "glucose 6-phosphate",
+      "C": "glycerol 1-phosphate",
+      "D": "glycerol 3-phosphate"
+    },
+    "answer": "B",
+    "explanation": "糖解作用的第一步是將葡萄糖磷酸化，生成葡萄糖-6-磷酸(glucose 6-phosphate, G6P)，並消耗一個ATP。"
+  },
+  {
+    "id": "BIO-W04-37",
+    "subject": "生物化學",
+    "question": "下列有關糖解作用及糖質新生作用的敘述,何者正確?",
+    "options": {
+      "A": "果糖無法作為肝臟中糖質新生作用之先質,因其無法經由磷酸化反應生成fructose-6-phosphate",
+      "B": "紅血球只能藉由無氧糖解作用來分解葡萄糖,作為其能量的主要來源",
+      "C": "在骨骼肌中,糖質新生作用為糖解作用的逆反應",
+      "D": "亞麻油酸可以分解為 acetyl-CoA,故可以做為糖質新生作用的先質"
+    },
+    "answer": "B",
+    "explanation": "成熟的人類紅血球沒有粒線體，無法進行 TCA 循環與氧化磷酸化，因此依賴糖解作用產生 ATP。"
+  },
+  {
+    "id": "BIO-W04-38",
+    "subject": "生物化學",
+    "question": "胰島素(insulin)透過下列何種方式活化肝醣合成酶(glycogen synthase) ?",
+    "options": {
+      "A": "腺核苷酸化(adenylylation)",
+      "B": "磷酸化(phosphorylation)",
+      "C": "去腺核苷酸化(deadenylylation)",
+      "D": "去磷酸化(dephosphorylation)"
+    },
+    "answer": "D",
+    "explanation": "肝醣合成酶在去磷酸化時通常較具活性，胰島素透過訊息傳遞促進其去磷酸化與活化。"
+  },
+  {
+    "id": "BIO-W04-39",
+    "subject": "生物化學",
+    "question": "戊糖磷酸途徑(pentose phosphate pathway)的主要功能是:",
+    "options": {
+      "A": "提供ATP的主要代謝途徑",
+      "B": "提供五碳糖和 NADPH",
+      "C": "提供三碳糖的主要代謝途徑",
+      "D": "利用胺基酸碳骨架合成醣類"
+    },
+    "answer": "B",
+    "explanation": "戊糖磷酸途徑主要提供 NADPH（供還原性合成與維持抗氧化）及核糖-5-磷酸（供核苷酸合成）。"
+  },
+  {
+    "id": "BIO-W04-40",
+    "subject": "生物化學",
+    "question": "在糖解作用過程合成之ATP,經由何種反應生成?",
+    "options": {
+      "A": "氧化(oxidation)",
+      "B": "受質層次磷酸化(substrate level phosphorylation)",
+      "C": "還原(reduction)",
+      "D": "氧化磷酸化(oxidative phosphorylation)"
+    },
+    "answer": "B",
+    "explanation": "受質層次磷酸化是將代謝物上的磷酸基直接轉移給 ADP 生成 ATP，糖解作用中有兩個步驟使用此方式。"
+  },
+  沒問題！我們接著來整理剩下的 3 份檔案：
+
+  生物化學題庫_第1週.pdf（共 53 題，命名為 BIO-W01-01 ~ BIO-W01-53）
+
+  生化題庫_20260918 2.pdf 與 生化題庫_20260918 3.pdf（此兩份內容相同，共 35 題，命名為 BIO-0918-01 ~ BIO-0918-35）
+
+  為了避免單次輸出過長導致程式碼截斷，我將分批為您輸出標準 物件格式 ("options": { "A": "...", ... }) 的 JSON 內容。
+
+  第一批：生物化學題庫_第1週.pdf（第 1 ~ 20 題）
+  JSON
+  [
+    {
+      "id": "BIO-W01-01",
+      "subject": "生物化學",
+      "question": "下列何者為構成細胞膜最主要的成分?",
+      "options": {
+        "A": "磷脂質(Phospholipids)",
+        "B": "膽固醇(Cholesterol)",
+        "C": "三酸甘油脂(Triacylglycerols)",
+        "D": "鞘脂質(Sphingolipids)"
+      },
+      "answer": "A",
+      "explanation": "細胞膜為雙層磷脂質構造,膜上的脂質主要成分即為磷脂質(Phospholipids),具有親水性頭端與疏水性尾端。"
+    },
+    {
+      "id": "BIO-W01-02",
+      "subject": "生物化學",
+      "question": "下列何者是細胞內產生ATP(腺核苷三磷酸)的主要胞器,且其內膜折疊形成「嵴(cristae)」?",
+      "options": {
+        "A": "溶小體(Lysosome)",
+        "B": "高基氏體(Golgi apparatus)",
+        "C": "粒線體(Mitochondria)",
+        "D": "內質網(Endoplasmic reticulum)"
+      },
+      "answer": "C",
+      "explanation": "粒線體(Mitochondria)是細胞的能量工廠,主要由外膜與內膜構成,內膜向內摺疊形成嵴(cristae),其上帶有電子傳遞鏈與ATP合成酶,負責進行氧化磷酸化以產生ATP。"
+    },
+    {
+      "id": "BIO-W01-03",
+      "subject": "生物化學",
+      "question": "細胞內進行「糖解作用 (Glycolysis)」的主要場所為下列何者?",
+      "options": {
+        "A": "粒線體基質(Mitochondrial matrix)",
+        "B": "粒線體內膜(Inner mitochondrial membrane)",
+        "C": "細胞質基質(Cytoplasm / Cytosol)",
+        "D": "高基氏體(Golgi apparatus)"
+      },
+      "answer": "C",
+      "explanation": "糖解作用不需要氧氣,整個反應途徑均在細胞基質中進行。"
+    },
+    {
+      "id": "BIO-W01-04",
+      "subject": "生物化學",
+      "question": "當細胞處於何種滲透壓濃度的溶液中時,水分子會大量流入細胞內,導致細胞膨脹甚至脹破(Lysis) ?",
+      "options": {
+        "A": "等張溶液(Isotonic solution)",
+        "B": "高張溶液(Hypertonic solution)",
+        "C": "低張溶液(Hypotonic solution)",
+        "D": "等電位溶液(Isoelectric solution)"
+      },
+      "answer": "C",
+      "explanation": "當細胞置於低張溶液(Hypotonic solution)時,外圍水分子會由濃度低處向細胞內移動,導致紅血球等細胞膨脹並脹破。"
+    },
+    {
+      "id": "BIO-W01-05",
+      "subject": "生物化學",
+      "question": "一分子葡萄糖(Glucose)完全進行有氧呼吸(Aerobic respiration)代謝後,大部分產生的ATP 是透過下列哪一個步驟獲得?",
+      "options": {
+        "A": "受質層次磷酸化(Substrate-level phosphorylation)",
+        "B": "氧化磷酸化(Oxidative phosphorylation)",
+        "C": "光合磷酸化(Photophosphorylation)",
+        "D": "發酵作用(Fermentation)"
+      },
+      "answer": "B",
+      "explanation": "葡萄糖經醣解作用與TCA循環產生的大部分能量儲存於還原態輔酶NADH與FADH2中，隨後進入粒線體內膜透過氧化磷酸化驅動ATP合成酶，生成約85%~90%的ATP。"
+    },
+    {
+      "id": "BIO-W01-06",
+      "subject": "生物化學",
+      "question": "糖解作用(glycolysis)和β-氧化作用 (β-oxidation)產生何種分子進入三羧酸循環(TCA cycle) ?",
+      "options": {
+        "A": "乙醯輔酶A(acetyl-CoA)",
+        "B": "葡萄糖6磷酸(glucose-6-phosphate)",
+        "C": "β-烴基丁酸輔酶A (β-hydroxybutyryl CoA)",
+        "D": "丙酮酸(pyruvic acid)"
+      },
+      "answer": "A",
+      "explanation": "糖解作用分解產生的丙酮酸與β-氧化作用分解的脂肪酸，皆會轉換成乙醯輔酶A(acetyl-CoA)進入檸檬酸循環。"
+    },
+    {
+      "id": "BIO-W01-07",
+      "subject": "生物化學",
+      "question": "脂肪主要以何種形式儲存於人體內?",
+      "options": {
+        "A": "cholesterol",
+        "B": "fatty acid",
+        "C": "phospholipids",
+        "D": "triglyceride"
+      },
+      "answer": "D",
+      "explanation": "脂肪在人體內主要以三酸甘油酯(triglyceride)的形式儲存於脂肪組織中。"
+    },
+    {
+      "id": "BIO-W01-08",
+      "subject": "生物化學",
+      "question": "有關細胞代謝與生化分子的敘述,下列何者正確?",
+      "options": {
+        "A": "糖解作用發生於粒線體基質中,一分子葡萄糖可淨產生4個ATP",
+        "B": "原核細胞因缺乏粒線體,無法進行電子傳遞與生成 ATP",
+        "C": "組胺酸(Histidine)的R基(側鏈)之pKa約為6.0,在生理pH值下具顯著的緩衝能力",
+        "D": "水分子電子軌域大略呈平面三角形,一個水分子最多可與周圍形成2個氫鍵"
+      },
+      "answer": "C",
+      "explanation": "組胺酸的側鏈(imidazole group)之pKa約為6.0，接近生理pH(約7.0)，因此在正常生理狀態下具有顯著的緩衝能力。"
+    },
+    {
+      "id": "BIO-W01-09",
+      "subject": "生物化學",
+      "question": "下列何者為六碳酮糖?",
+      "options": {
+        "A": "L-葡萄糖(L-glucose)",
+        "B": "D-果糖(D-fructose)",
+        "C": "D-半乳糖(D-galactose)",
+        "D": "D-麥芽糖(D-maltose)"
+      },
+      "answer": "B",
+      "explanation": "果糖(D-fructose)為6個碳的單醣，且其官能基酮基部位於C2位置，屬於典型的六碳酮糖(Ketohexose)。"
+    },
+    {
+      "id": "BIO-W01-10",
+      "subject": "生物化學",
+      "question": "在進行蛋白質 SDS-PAGE(十二烷基硫酸鈉-聚丙烯醯胺凝膠電泳)時,SDS (Sodium Dodecyl Sulfate)主要發揮什麼關鍵作用?",
+      "options": {
+        "A": "使蛋白質帶均勻負電荷並消除電荷效應",
+        "B": "作為電泳緩衝液以維持恆定pH 值",
+        "C": "結合膠體內部以加速電泳運行速度",
+        "D": "破壞雙硫鍵以完全變性蛋白質"
+      },
+      "answer": "A",
+      "explanation": "SDS是一種陰離子去污劑,能結合蛋白質並掩蓋其原本的電荷,使蛋白質均勻帶負電荷,移動速率僅取決於分子量。"
+    },
+    {
+      "id": "BIO-W01-11",
+      "subject": "生物化學",
+      "question": "在台灣的禽流感疫情監測中,高病原性禽流感(HPAI) 主要由A型流感病毒引起。關於台灣近年常見的禽流感病毒亞型與其血清型特性,下列敘述何者最為正確?",
+      "options": {
+        "A": "台灣常見高病原性禽流感主要為H5N1與H5N2亞型",
+        "B": "台灣常見高病原性禽流感主要為H7N9與H9N2亞型",
+        "C": "台灣常見高病原性禽流感主要為H1N1與H3N2亞型",
+        "D": "台灣常見高病原性禽流感主要為B型流感病毒亞型"
+      },
+      "answer": "A",
+      "explanation": "台灣家禽場監測與歷年疫情顯示,高病原性禽流感主要由H5亞型病毒(如H5N1、H5N2、H5N5等)引起。"
+    },
+    {
+      "id": "BIO-W01-12",
+      "subject": "生物化學",
+      "question": "下列何者是人體中負責將氧氣與營養物質運送到各組織,並帶走部分代謝廢物的主要器官系統(organ system) ?",
+      "options": {
+        "A": "消化系統(digestive system)",
+        "B": "循環系統(circulatory system)",
+        "C": "神經系統(nervous system)",
+        "D": "呼吸系統(respiratory system)"
+      },
+      "answer": "B",
+      "explanation": "循環系統主要由心臟、血管和血液組成，負責在身體內運送氧氣、營養物質以及代謝產物。"
+    },
+    {
+      "id": "BIO-W01-13",
+      "subject": "生物化學",
+      "question": "下列何者最能描述人體微生物群(microbiota)的概念?",
+      "options": {
+        "A": "只存在於疾病患者體內的有害細菌",
+        "B": "人體細胞內部的胞器(organelles)",
+        "C": "與人體共同生活的大量微生物(microorganisms)",
+        "D": "人體製造的消化酵素(digestive enzymes)"
+      },
+      "answer": "C",
+      "explanation": "微生物群(microbiota)是指生活在人體不同部位、與人體形成密切關係的大量微生物群體。"
+    },
+    {
+      "id": "BIO-W01-14",
+      "subject": "生物化學",
+      "question": "Cholesterol 在 animal cell membrane 中的主要功能之一是什麼?",
+      "options": {
+        "A": "儲存遺傳訊息",
+        "B": "調節 membrane fluidity",
+        "C": "催化 glycolysis",
+        "D": "分解 protein"
+      },
+      "answer": "B",
+      "explanation": "膽固醇插在磷脂質分子之間，主要功能之一就是穩定並調節細胞膜的流動性(membrane fluidity)。"
+    },
+    {
+      "id": "BIO-W01-15",
+      "subject": "生物化學",
+      "question": "Glycolysis 發生在細胞的哪個位置?",
+      "options": {
+        "A": "Mitochondrial matrix",
+        "B": "Cytosol",
+        "C": "Nucleus",
+        "D": "Endoplasmic reticulum"
+      },
+      "answer": "B",
+      "explanation": "整個糖解作用(Glycolysis)的反應步驟都發生在細胞質基質(Cytosol)。"
+    },
+    {
+      "id": "BIO-W01-16",
+      "subject": "生物化學",
+      "question": "酮體(ketone bodies)過多顯示什麼?",
+      "options": {
+        "A": "蛋白質攝取不足",
+        "B": "過量攝取糖分",
+        "C": "心臟衰竭",
+        "D": "長期飢餓或糖尿病"
+      },
+      "answer": "D",
+      "explanation": "碳水化合物攝取不足或無法利用(如長期飢餓或糖尿病)時，身體會大量分解脂肪獲取能量，進而產生過多酮體。"
+    },
+    {
+      "id": "BIO-W01-17",
+      "subject": "生物化學",
+      "question": "下列哪些酵素參與糖解作用過程中的不可逆過程?",
+      "options": {
+        "A": "己糖激酶、磷酸果糖激酶-1、丙酮酸激酶(Hexokinase, Phosphofructokinase-1, Pyruvate kinase)",
+        "B": "己糖激酶、烯醇化酶、磷酸甘油酸激酶(Hexokinase, Enolase, Phosphoglycerate kinase)",
+        "C": "己糖激酶、丙酮酸激酶、磷酸果糖激酶-1、磷酸丙糖異構酶(Hexokinase, Pyruvate kinase, Phosphofructokinase-1, Triose phosphate isomerase)",
+        "D": "烯醇化酶、磷酸甘油酸變位酶、丙酮酸激酶(Enolase, Phosphoglycerate mutase, Pyruvate kinase)"
+      },
+      "answer": "A",
+      "explanation": "糖解作用的三個不可逆限速步驟分別由己糖激酶(Hexokinase)、磷酸果糖激酶-1(PFK-1)及丙酮酸激酶(Pyruvate kinase)催化。"
+    },
+    {
+      "id": "BIO-W01-18",
+      "subject": "生物化學",
+      "question": "長鏈脂肪酸進入粒線體基質進行β-氧化時,需透過肉鹼(Carnitine) 穿梭系統。下列有關此過程調節與機轉之敘述,何者錯誤?",
+      "options": {
+        "A": "肉鹼棕櫚醯轉移酶(CPT I)位於粒線體外膜",
+        "B": "丙二醯輔酶A (Malonyl-CoA)會抑制CPT I的活性",
+        "C": "肉鹼棕櫚醯轉移酶II (CPT II) 位於粒線體內膜",
+        "D": "CPT I會被高濃度的胰島素直接變構活化以加速燃燒脂肪酸"
+      },
+      "answer": "D",
+      "explanation": "胰島素代表飽食狀態，會刺激 Malonyl-CoA 產生，從而『抑制』CPT I 活性以減少脂肪酸分解，而非活化。"
+    },
+    {
+      "id": "BIO-W01-19",
+      "subject": "生物化學",
+      "question": "當犬隻出現嚴重肝細胞急性壞死或損害時,血液生化檢驗中半衰期較短且具備高度肝細胞特異性的指標酵素為何?",
+      "options": {
+        "A": "鹼性磷酸酶(ALP)",
+        "B": "血清肌酸激酶(CK)",
+        "C": "丙胺酸轉胺酶(ALT)",
+        "D": "γ-麩胺醯轉移酶(GGT)"
+      },
+      "answer": "C",
+      "explanation": "ALT 在犬貓的肝細胞質中含量豐富，是評估肝細胞急性破壞與壞死最具特異性的血清生化指標。"
+    },
+    {
+      "id": "BIO-W01-20",
+      "subject": "生物化學",
+      "question": "下列何者存在於動物細胞,而不存在於細菌?",
+      "options": {
+        "A": "核糖體(ribosome)",
+        "B": "細胞壁(cell wall)",
+        "C": "質體(plasmid)",
+        "D": "溶酶體(lysosome)"
+      },
+      "answer": "D",
+      "explanation": "溶酶體(lysosome)屬於膜性胞器，存在於真核細胞(如動物細胞)中；細菌屬於原核生物，缺乏膜狀胞器。"
+    },
+    {
+        "id": "BIO-W01-21",
+        "subject": "生物化學",
+        "question": "下列關於胞器(organelle)的敘述,何者正確?",
+        "options": {
+          "A": "粒線體(mitochondria)是單層膜胞器,是以無氧呼吸產生能量的主要場所",
+          "B": "核糖體RNA(ribosomal RNA)存在細胞質內,是由核糖體(ribosome)所製造",
+          "C": "平滑內質網(smooth ER)含有許多核糖體,負責蛋白質的醣化(glycosylation)",
+          "D": "高基氏體(Golgi apparatus)負責蛋白質修飾(modification)和分類(sorting)"
+        },
+        "answer": "D",
+        "explanation": "高基氏體負責對來自內質網的蛋白質進行修飾、分類與包裝[cite: 30]。A粒線體為雙層膜且進行有氧呼吸；B rRNA由核仁製造；C含核糖體者為粗糙內質網[cite: 30]。"
+      },
+      {
+        "id": "BIO-W01-22",
+        "subject": "生物化學",
+        "question": "下列哪種脂質不是細胞膜 lipid bilayer 的主要成分?",
+        "options": {
+          "A": "Phospholipids(磷脂)",
+          "B": "Triacylglycerol(三酸甘油酯)",
+          "C": "Glycolipids (醣脂)",
+          "D": "Sterol(固醇)"
+        },
+        "answer": "B",
+        "explanation": "三酸甘油酯主要負責能量儲存，集中於脂滴或脂肪組織中，不屬於細胞膜脂雙層的主要成分[cite: 30]。"
+      },
+      {
+        "id": "BIO-W01-23",
+        "subject": "生物化學",
+        "question": "下列何者為腸道和呼吸道的上皮內襯(epithelial lining)分泌物中最主要存在的免疫球蛋白?",
+        "options": {
+          "A": "IgD",
+          "B": "IgG",
+          "C": "IgA",
+          "D": "IgE"
+        },
+        "answer": "C",
+        "explanation": "黏膜上皮內襯的分泌物（如唾液、淚液、腸胃道及呼吸道黏液）中，存在最主要的抗體為分泌型 IgA (sIgA)[cite: 31]。"
+      },
+      {
+        "id": "BIO-W01-24",
+        "subject": "生物化學",
+        "question": "下列何者的內部細胞骨架是以微管(microtubule) 為基礎?",
+        "options": {
+          "A": "紋狀緣的微絨毛(microvilli of the striated border)",
+          "B": "刷狀緣的微絨毛(microvilli of the brush border)",
+          "C": "靜纖毛(stereocilia)",
+          "D": "纖毛(cilia)"
+        },
+        "answer": "D",
+        "explanation": "纖毛（cilia）及鞭毛內部的軸絲骨架是以微管（microtubule）構成（9+2 結構）；微絨毛與靜纖毛則以微絲（actin filaments）為主[cite: 31, 36]。"
+      },
+      {
+        "id": "BIO-W01-25",
+        "subject": "生物化學",
+        "question": "下列何種抗氧化物在粒線體內膜參與電子傳遞?",
+        "options": {
+          "A": "硫辛酸(lipoic acid)",
+          "B": "抗壞血酸(ascorbic acid)",
+          "C": "輔酶Q(coenzyme Q)",
+          "D": "生育醌(tocopherol quinone)"
+        },
+        "answer": "C",
+        "explanation": "輔酶Q (Coenzyme Q / Ubiquinone) 存在於粒線體內膜，在電子傳遞鏈中扮演電子載體並具抗氧化功能[cite: 31]。"
+      },
+      {
+        "id": "BIO-W01-26",
+        "subject": "生物化學",
+        "question": "一隻犬因飲水不足及水分大量流失而出現高血鈉。當細胞外液滲透壓明顯升高時,細胞最可能發生何種變化?",
+        "options": {
+          "A": "水分由細胞內移向細胞外,使細胞皺縮。",
+          "B": "水分進入細胞,使細胞膨脹。",
+          "C": "鈉離子完全停止跨膜移動。",
+          "D": "細胞內外滲透壓差異不影響水分移動。"
+        },
+        "answer": "A",
+        "explanation": "高血鈉會提高細胞外液的高張滲透壓，驅使水分由細胞內流向細胞外，造成細胞脫水與皺縮[cite: 32]。"
+      },
+      {
+        "id": "BIO-W01-27",
+        "subject": "生物化學",
+        "question": "以簡單的脈搏血氧測定法(simple pulse oximetry) 測定血氧飽和度(SO2)時,是屬於下列那一種偵測分析方法?",
+        "options": {
+          "A": "分光光度法(spectrophotometry)",
+          "B": "紙色層分析法(paper chromatography)",
+          "C": "電內滲流方法(electroendosmotic flow method)",
+          "D": "離子選擇電極方法(ion-selective electrode method)"
+        },
+        "answer": "A",
+        "explanation": "脈搏血氧測定法利用含氧血紅素與去氧血紅素在特定波長下吸光度不同的特性來計算血氧飽和度，屬於分光光度法的應用[cite: 32]。"
+      },
+      {
+        "id": "BIO-W01-28",
+        "subject": "生物化學",
+        "question": "哺乳類成熟紅血球缺乏粒線體,因此主要依靠糖解作用產生能量。下列何種代謝途徑不屬於紅血球的葡萄糖代謝途徑?",
+        "options": {
+          "A": "Embden-Meyerhof pathway",
+          "B": "Hexosamine biosynthetic pathway",
+          "C": "Methemoglobin reductase pathway",
+          "D": "Pentose phosphate pathway"
+        },
+        "answer": "B",
+        "explanation": "成熟紅血球主要利用 Embden-Meyerhof pathway (糖解作用) 產生 ATP，並輔以戊糖磷酸途徑及變性血紅素還原酶途徑[cite: 32]。"
+      },
+      {
+        "id": "BIO-W01-29",
+        "subject": "生物化學",
+        "question": "角質素(keratin)是屬於下列何種細胞骨架?",
+        "options": {
+          "A": "微絲(microfilaments)",
+          "B": "中間絲(intermediate filaments)",
+          "C": "微管(microtubules)",
+          "D": "纖毛(cilia)"
+        },
+        "answer": "B",
+        "explanation": "角質蛋白 (keratin) 屬於中間絲 (intermediate filaments) 細胞骨架的一種[cite: 33]。"
+      },
+      {
+        "id": "BIO-W01-30",
+        "subject": "生物化學",
+        "question": "粒線體呼吸鏈(或稱電子傳遞鏈)是一連串的氧化還原反應,下列有關呼吸鏈相關之氧化還原反應的敘述,何者正確?",
+        "options": {
+          "A": "NADH為最終的電子接受者",
+          "B": "complex II 將FAD 還原成FADH2",
+          "C": "coenzyme Q的還原發生在complex III",
+          "D": "cytochrome c的氧化發生在 complex IV"
+        },
+        "answer": "D",
+        "explanation": "Complex IV (細胞色素c氧化酶) 負責催化 cytochrome c 的氧化，並將電子傳給最終電子接受者氧氣[cite: 33, 39]。"
+      },
+      {
+        "id": "BIO-W01-31",
+        "subject": "生物化學",
+        "question": "一單元葡萄糖進入糖解分解作用,當全部分解至acetyl-CoA時,共可生成多少單元的NADH?",
+        "options": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "10"
+        },
+        "answer": "C",
+        "explanation": "一分子葡萄糖進行糖解作用產生 2 NADH，接著 2 分子丙酮酸去羧形成 acetyl-CoA 產生 2 NADH，共可生成 4 單元的 NADH[cite: 33]。"
+      },
+      {
+        "id": "BIO-W01-32",
+        "subject": "生物化學",
+        "question": "使葡萄糖經糖解作用(glycolysis)後的產物直接進入克氏循環(Krebs cycle,亦稱 citric acid cycle 或 TCA cycle)的關鍵酵素為何?",
+        "options": {
+          "A": "succinate dehydrogenase complex",
+          "B": "isocitrate dehydrogenase complex",
+          "C": "pyruvate dehydrogenase complex",
+          "D": "malate dehydrogenase complex"
+        },
+        "answer": "C",
+        "explanation": "丙酮酸去氫酶複合體 (PDH complex) 將糖解產物丙酮酸轉化為 acetyl-CoA，是進入 TCA 循環的關鍵步驟[cite: 33]。"
+      },
+      {
+        "id": "BIO-W01-33",
+        "subject": "生物化學",
+        "question": "酶的活化位置(active site) 參與受質的結合與催化,此過程中下列何者的降低,可以促使反應進行?",
+        "options": {
+          "A": "受質(substrate)結合強度",
+          "B": "輔酶(coenzyme)結合強度",
+          "C": "反應過渡狀態(transition state)的活化能",
+          "D": "酶的濃度"
+        },
+        "answer": "C",
+        "explanation": "酵素主要透過降低反應過渡狀態 (transition state) 所需要的活化能，來大幅加快化學反應速率[cite: 33]。"
+      },
+      {
+        "id": "BIO-W01-34",
+        "subject": "生物化學",
+        "question": "Dinitrophenol 為 oxidative phosphorylation 之去偶合劑(uncoupler),其主要作用為何?",
+        "options": {
+          "A": "阻斷電子傳遞",
+          "B": "增加電子傳遞產生的高能鍵",
+          "C": "結合 ATP synthase",
+          "D": "降低進出粒線體內膜的proton gradient"
+        },
+        "answer": "D",
+        "explanation": "去偶合劑（如 DNP）會將質子攜帶回基質，消去粒線體內膜兩側的質子梯度 (proton gradient)，使能量以熱能散失而非合成 ATP[cite: 34, 39]。"
+      },
+      {
+        "id": "BIO-W01-35",
+        "subject": "生物化學",
+        "question": "Citric acid cycle 氧化 acetyl-CoA 可以產生什麼?",
+        "options": {
+          "A": "2分子CO2及1分子GTP",
+          "B": "2分子CO2及2分子ATP",
+          "C": "1分子CO2及2分子GTP",
+          "D": "1分子CO2及1分子ATP"
+        },
+        "answer": "A",
+        "explanation": "每一分子 acetyl-CoA 進入檸檬酸循環完整氧化，會釋放 2 分子 CO2，並經由受質層次磷酸化產生 1 分子 GTP (或 ATP)[cite: 34]。"
+      },
+      {
+        "id": "BIO-W01-36",
+        "subject": "生物化學",
+        "question": "下列有關ionophores 的敘述,何者錯誤?",
+        "options": {
+          "A": "可以影響離子的穿膜擴散",
+          "B": "可為一種抗生素(antibiotics)",
+          "C": "會破壞電化學梯度(electrochemical gradients)",
+          "D": "提高細胞膜主動運輸(active transport)功能"
+        },
+        "answer": "D",
+        "explanation": "Ionophores (離子載體) 會增加離子跨膜被動擴散並消除電化學梯度，並非提高主動運輸功能[cite: 34]。"
+      },
+      {
+        "id": "BIO-W01-37",
+        "subject": "生物化學",
+        "question": "細胞加入粒線體呼吸鏈抑制劑會造成呼吸鏈電子傳遞中斷。假設一新發現之藥物已知其功能為呼吸鏈抑制劑,並會完全阻斷 complex III 的功能。當細胞加入此藥物一段時間後,下列那一組呼吸鏈代謝物,兩者主要皆以還原態存在?",
+        "options": {
+          "A": "coenzyme Q, NADH",
+          "B": "coenzyme Q, cytochrome c",
+          "C": "cytochrome b, cytochrome c",
+          "D": "cytochrome a, cytochrome b"
+        },
+        "answer": "A",
+        "explanation": "Complex III 被阻斷時，其上游的電子載體（NADH, Coenzyme Q）無法將電子往下傳而積壓呈還原態；下游（cytochrome c, a）則會維持氧化態[cite: 34]。"
+      },
+      {
+        "id": "BIO-W01-38",
+        "subject": "生物化學",
+        "question": "關於胰凝乳蛋白酶(chymotrypsin) 催化水解胜肽鍵(peptide bond)的敘述,下列何者錯誤?",
+        "options": {
+          "A": "胰凝乳蛋白酶原(chymotrypsinogen) 被胰蛋白酶(trypsin) 激活為活性 -胰凝乳蛋白酶",
+          "B": "Ser195、His57和Gly193 是催化三元體(catalytic triad)",
+          "C": "His57 提供酸一鹼催化(general acid-base catalysis)",
+          "D": "Diisopropylfluorophosphate (DIFP) 與胰凝乳蛋白酶之 Ser195形成共價鍵,是胰凝乳蛋白酶的不可逆抑制劑"
+        },
+        "answer": "B",
+        "explanation": "Chymotrypsin 的催化三元體 (catalytic triad) 是由 Ser195、His57 及 Asp102 組成，而非 Gly193[cite: 34, 35]。"
+      },
+      {
+        "id": "BIO-W01-39",
+        "subject": "生物化學",
+        "question": "人體會隨著長期遷居於高山上而有代償性生理反應,包括2,3-BPG (2,3-bisphosphoglycerate) 濃度升高。關於2,3-BPG濃度升高的敘述,下列何者正確?",
+        "options": {
+          "A": "會促使血紅素由T型(T state) 轉變成R型(R state)",
+          "B": "會促使血紅素生成增加,以應付高山生理需求",
+          "C": "會和T型血紅素結合使其更穩定,促使更多O2在周邊組織釋放",
+          "D": "會和R型血紅素結合使其更穩定,因而增加血紅素對O2之結合"
+        },
+        "answer": "C",
+        "explanation": "2,3-BPG 專一性結合於去氧態 (T state) 血紅素，穩定 T 型結構並降低對氧氣親和力，促進氧氣在組織釋放以適應缺氧[cite: 35]。"
+      },
+      {
+        "id": "BIO-W01-40",
+        "subject": "生物化學",
+        "question": "粒線體內部及基質空間中含有多種酵素,其主要負責哪一項代謝反應,將碳水化合物、蛋白質及脂肪代謝分解為水及二氧化碳?",
+        "options": {
+          "A": "糖解作用",
+          "B": "酒精發酵",
+          "C": "光合作用之光反應",
+          "D": "檸檬酸循環"
+        },
+        "answer": "D",
+        "explanation": "檸檬酸循環（TCA cycle）發生於粒線體基質中，是碳水化合物、脂質與蛋白質三大營養素有氧分解的核心途徑[cite: 35]。"
+      },
+      {
+          "id": "BIO-W01-41",
+          "subject": "生物化學",
+          "question": "關於細胞骨架中的微絲(Microfilaments,又稱肌動蛋白纖維 actin filaments),下列敘述何者正確?",
+          "options": {
+            "A": "由微管蛋白(tubulin) 單體聚合而成,具極性。",
+            "B": "參與動物細胞分裂時的胞質分裂(cytokinesis)以及肌肉收縮。",
+            "C": "主要功能是提供細胞極佳的抗張強度,且蛋白質組成高度保守且不具極性。",
+            "D": "是纖毛與鞭毛內部「9+2」結構的主要構成成分。"
+          },
+          "answer": "B",
+          "explanation": "微絲由肌動蛋白構成，在胞質分裂時形成收縮環，並參與肌肉收縮與細胞運動[cite: 35, 36]。"
+        },
+        {
+          "id": "BIO-W01-42",
+          "subject": "生物化學",
+          "question": "下列何者是原核細胞(prokaryotic cells)與真核細胞(eukaryotic cells)之間的主要差異?",
+          "options": {
+            "A": "原核細胞具有細胞壁,而真核細胞沒有細胞壁。",
+            "B": "真核細胞具有鞭毛(flagella),而原核細胞沒有鞭毛。",
+            "C": "真核細胞具有膜構造的胞器,而原核細胞沒有膜構造的胞器。",
+            "D": "原核細胞通常比真核細胞大。"
+          },
+          "answer": "C",
+          "explanation": "真核細胞具有由膜面包圍的胞器（如細胞核、粒線體等），原核細胞則缺乏膜性胞器[cite: 36]。"
+        },
+        {
+          "id": "BIO-W01-43",
+          "subject": "生物化學",
+          "question": "具有大量平滑內質網(smooth endoplasmic reticulum; sER)的細胞,很可能專門負責進行下列哪一項功能?",
+          "options": {
+            "A": "儲存大量的水。",
+            "B": "輸入與輸出大量蛋白質。",
+            "C": "主動分泌大量蛋白質。",
+            "D": "合成大量脂質。"
+          },
+          "answer": "D",
+          "explanation": "平滑內質網（sER）的主要功能包括脂質與類固醇合成、鈣離子儲存以及藥物解毒作用[cite: 36, 37]。"
+        },
+        {
+          "id": "BIO-W01-44",
+          "subject": "生物化學",
+          "question": "關於免疫球蛋白(Immunoglobulin)的敘述,下列何者正確?",
+          "options": {
+            "A": "由T淋巴球(T lymphocyte) 直接分泌生成",
+            "B": "能與外來感染源的抗原決定基(epitope)專一性結合",
+            "C": "依據結構不同,在體內主要分為IgG、IgM、IgD 3大類",
+            "D": "屬於提供皮膚及骨骼組織高張力所需的細胞外基質纖維蛋白"
+          },
+          "answer": "B",
+          "explanation": "抗體（免疫球蛋白）由 B 淋巴球分化的漿細胞分泌，能專一性結合抗原決定基（epitope）[cite: 37]。"
+        },
+        {
+          "id": "BIO-W01-45",
+          "subject": "生物化學",
+          "question": "關於肌肉蛋白與肌肉收縮機制的敘述,下列何者正確?",
+          "options": {
+            "A": "肌肉中主要的兩種細絲狀蛋白質為膠原蛋白(collagen)與彈性蛋白(elastin)",
+            "B": "肌肉收縮過程主要將電能轉換為光能",
+            "C": "肌肉收縮是藉由肌動蛋白(actin)及肌凝蛋白(myosin)的構型改變及相對交互作用引起",
+            "D": "肌肉蛋白的收縮運動僅能維持骨骼肌,無法維持心臟及平滑肌組織的收縮"
+          },
+          "answer": "C",
+          "explanation": "肌肉收縮係由肌動蛋白（actin）與肌凝蛋白（myosin）經滑行絲理論相對滑動及構型改變所驅動[cite: 37]。"
+        },
+        {
+          "id": "BIO-W01-46",
+          "subject": "生物化學",
+          "question": "某細胞需要大量合成類固醇,並具有處理脂質及進行解毒反應的功能。此細胞內下列何種胞器可能較發達?",
+          "options": {
+            "A": "粗糙內質網(Rough endoplasmic reticulum, RER)",
+            "B": "平滑內質網(Smooth endoplasmic reticulum, SER)",
+            "C": "高基氏體(Golgi apparatus)",
+            "D": "溶小體(Lysosome)"
+          },
+          "answer": "B",
+          "explanation": "平滑內質網負責類固醇與脂質的合成，以及細胞內的解毒與代謝反應[cite: 37, 38]。"
+        },
+        {
+          "id": "BIO-W01-47",
+          "subject": "生物化學",
+          "question": "糖解作用(glycolysis) 主要發生於細胞的哪個位置?",
+          "options": {
+            "A": "粒線體基質",
+            "B": "細胞質基質(cytosol)",
+            "C": "粒線體內膜",
+            "D": "細胞核"
+          },
+          "answer": "B",
+          "explanation": "糖解作用完全發生於細胞質基質（cytosol）中[cite: 38]。"
+        },
+        {
+          "id": "BIO-W01-48",
+          "subject": "生物化學",
+          "question": "在有氧呼吸中,電子傳遞鏈的最終電子接受者為何?",
+          "options": {
+            "A": "二氧化碳",
+            "B": "葡萄糖",
+            "C": "氧氣",
+            "D": "ATP"
+          },
+          "answer": "C",
+          "explanation": "在有氧呼吸中，氧氣（O2）作為電子傳遞鏈的最終電子接受者，接受電子與質子後生成水[cite: 38]。"
+        },
+        {
+          "id": "BIO-W01-49",
+          "subject": "生物化學",
+          "question": "關於真核細胞內各胞器功能的敘述,下列何者錯誤?",
+          "options": {
+            "A": "粗糙內質網(rER)膜的近細胞質側附著有核醣體,主要負責蛋白質的合成與初始摺疊",
+            "B": "平滑內質網(sER)不含核醣體,主要負責脂類物質合成及細胞內的解毒反應",
+            "C": "溶小體(lysosome) 內部環境偏鹼性,主要負責細胞內老舊胞器的分解與吞噬物的消化",
+            "D": "高基氏體(Golgi apparatus)具極化性,可對來自內質網的蛋白質進行修飾並形成分泌性囊泡"
+          },
+          "answer": "C",
+          "explanation": "溶小體（lysosome）內部含有多種酸性水解酵素，其腔內環境維持在酸性（pH 約 4.5–5.0）而非鹼性[cite: 38, 39]。"
+        },
+        {
+          "id": "BIO-W01-50",
+          "subject": "生物化學",
+          "question": "有關粒線體氧化磷酸化(Oxidative Phosphorylation)及化學滲透假說(Chemiosmotic Hypothesis)的敘述,何者錯誤?",
+          "options": {
+            "A": "電子傳遞鏈運作時,會將質子(H+) 由粒線體基質幫浦至膜間隙",
+            "B": "質子跨膜梯度所形成的質子動力勢,是驅動ATP合成酶合成ATP的主要能量來源",
+            "C": "去偶合劑(Uncoupler,如2,4-Dinitrophenol, DNP)會破壞質子梯度,導致電子傳遞停止並抑制氧氣消耗",
+            "D": "複合體 II (Succinate dehydrogenase) 參與檸檬酸循環,同時也是電子傳遞鏈的一部份,但它不會幫浦質子跨膜"
+          },
+          "answer": "C",
+          "explanation": "去偶合劑消除了質子梯度後，電子傳遞鏈運轉速度反而會飆升並大量消耗氧氣，但釋放的能量無法轉為 ATP 而是散失為熱能[cite: 39]。"
+        },
+        {
+          "id": "BIO-W01-51",
+          "subject": "生物化學",
+          "question": "有關胰島素(insulin)之訊息傳遞特徵,下列何者正確?",
+          "options": {
+            "A": "其受體存在於細胞質",
+            "B": "與受體結合後啟動磷酸化",
+            "C": "其受體特徵為離子通道(ion channel)",
+            "D": "不需要消耗 ATP"
+          },
+          "answer": "B",
+          "explanation": "胰島素受體具酪胺酸激酶（Tyrosine kinase）活性，結合胰島素後會引發受體自我磷酸化（autophosphorylation）及下游傳訊分子磷酸化[cite: 39, 40]。"
+        },
+        {
+          "id": "BIO-W01-52",
+          "subject": "生物化學",
+          "question": "下列何者是細胞膜的特性?",
+          "options": {
+            "A": "極性但不帶電荷的物質,可以隨意穿過細胞膜的脂雙層(lipid bilayer)",
+            "B": "磷脂質分子在脂雙層(lipid bilayer)的表面可以側面擴散(lateral diffusion)",
+            "C": "膜蛋白可以在脂雙層(lipid bilayer) 翻面擴散(flip-flop diffusion)",
+            "D": "脂雙層(lipid bilayer)的固定力全賴磷脂質分子之間的共價鍵結力"
+          },
+          "answer": "B",
+          "explanation": "磷脂質分子在同層膜內可快速進行側面移動（lateral diffusion），展現膜的流動性[cite: 40]。"
+        },
+        {
+          "id": "BIO-W01-53",
+          "subject": "生物化學",
+          "question": "下列何者屬於合成代謝(Anabolism)作用?",
+          "options": {
+            "A": "葡萄糖分解成丙酮酸",
+            "B": "脂肪分解成脂肪酸與甘油",
+            "C": "胺基酸合成蛋白質",
+            "D": "肝醣分解成葡萄糖"
+          },
+          "answer": "C",
+          "explanation": "合成代謝（Anabolism）是指消耗能量將小分子（如胺基酸）組合成大分子（如蛋白質）的過程[cite: 40]。"
+        },
+        {
+          "id": "BIO-0918-01",
+          "subject": "生物化學",
+          "question": "有關水分子的敘述,下列何者最為適當?",
+          "options": {
+            "A": "水分子的電荷分布均勻,故為非極性分子",
+            "B": "一個水分子最多可形成4個氫鍵,因其能同時接受2個電子並提供2個電子",
+            "C": "氫鍵的解離能大於氧-氫共價鍵的解離能",
+            "D": "雙極性分子(amphipathic)與水混合時,非極性基團會朝外與水分子結合"
+          },
+          "answer": "B",
+          "explanation": "水分子可同時透過氧上的孤對電子接受 2 個氫鍵，並由 2 個氫原子提供 2 個氫鍵，故最多可形成 4 個氫鍵[cite: 41]。"
+        },
+        {
+          "id": "BIO-0918-02",
+          "subject": "生物化學",
+          "question": "有關原核生物(prokaryote)與真核生物(eukaryote)之比較,下列敘述何者正確?",
+          "options": {
+            "A": "原核生物的能量代謝主要在粒線體進行氧化磷酸化",
+            "B": "原核生物的DNA由組織蛋白(histone)緊密纏繞後儲存於細胞核中",
+            "C": "真核生物之細胞分裂方式為簡單分裂,不涉及紡錘絲",
+            "D": "真核細胞具有由膜構造形成的胞器,如粒線體、內質網及高基氏體等"
+          },
+          "answer": "D",
+          "explanation": "真核細胞具有多種膜包覆的胞器（粒線體、內質網、高基氏體等）[cite: 41]。"
+        },
+        {
+          "id": "BIO-0918-03",
+          "subject": "生物化學",
+          "question": "一分子葡萄糖經醣解作用(glycolysis)於細胞質中代謝,下列敘述何者最適當?",
+          "options": {
+            "A": "淨反應可產生4個ATP及2個NADH",
+            "B": "六碳的葡萄糖最終轉變為2個三碳的丙酮酸",
+            "C": "醣解作用全程皆需消耗氧氣方能進行",
+            "D": "磷酸果糖激酶-1(PFK-1)為醣解作用中可逆的限速步驟"
+          },
+          "answer": "B",
+          "explanation": "一分子葡萄糖（六碳）經糖解作用分解為兩分子丙酮酸（三碳），淨生成 2 ATP 與 2 NADH[cite: 41]。"
+        },
+        {
+          "id": "BIO-0918-04",
+          "subject": "生物化學",
+          "question": "有關檸檬酸循環(citric acid cycle)之敘述,下列何者正確?",
+          "options": {
+            "A": "一次循環淨產生2個NADH、1個FADH2及1個GTP",
+            "B": "琥珀酸去氫酶(succinate dehydrogenase)催化反應時將FAD還原為FADH2",
+            "C": "乙醯輔酶A僅能由丙酮酸氧化產生,脂肪酸與生醣性胺基酸皆無法提供",
+            "D": "檸檬酸循環發生於細胞質基質中,與粒線體無關"
+          },
+          "answer": "B",
+          "explanation": "琥珀酸去氫酶催化琥珀酸氧化為延胡索酸，同時將 FAD 還原為 FADH2[cite: 42]。"
+        },
+        {
+          "id": "BIO-0918-05",
+          "subject": "生物化學",
+          "question": "有關氧化磷酸化與電子傳遞鏈之敘述,下列何者最為適當?",
+          "options": {
+            "A": "NADH經電子傳遞鏈傳遞電子平均可產生約1.5個ATP",
+            "B": "電子傳遞鏈酵素複合體將質子幫浦至基質區(N端),使基質區形成正電位",
+            "C": "ATP合成酶(ATP synthase)位於粒線體內膜,利用質子驅動力驅動ATP合成",
+            "D": "FADH2傳遞電子所產生的ATP量多於NADH"
+          },
+          "answer": "C",
+          "explanation": "ATP 合成酶位於粒線體內膜，利用質子由膜間隙流回基質產生的質子驅動力來催化 ATP 合成[cite: 42]。"
+        },
+        {
+          "id": "BIO-0918-06",
+          "subject": "生物化學",
+          "question": "一隻12歲已結紮公犬的ALT 活性值為150 IU/L,AST 活性值400 IU/L,CK活性值1,500 IU/L,最可能的判讀為:",
+          "options": {
+            "A": "骨骼肌損傷",
+            "B": "肝臟損傷",
+            "C": "肌肉及肝臟同時嚴重損傷",
+            "D": "脂肪肝"
+          },
+          "answer": "A",
+          "explanation": "CK 暴增且 AST 顯著上升主要代表骨骼肌嚴重受損；ALT 僅微幅上升不代表嚴重肝損傷[cite: 43]。"
+        },
+        {
+          "id": "BIO-0918-07",
+          "subject": "生物化學",
+          "question": "下列何種方法可區分血清中 lactate dehydrogenase (LDH)之異構酶?",
+          "options": {
+            "A": "高速離心法",
+            "B": "電泳法",
+            "C": "免疫沉澱分析法",
+            "D": "免疫凝集反應法"
+          },
+          "answer": "B",
+          "explanation": "LDH 的 5 種同功酶因帶電量與分子結構差異，可通过電泳法在膠體上分離開來[cite: 43, 44]。"
+        },
+        {
+          "id": "BIO-0918-08",
+          "subject": "生物化學",
+          "question": "下列有關於酮體的敘述,何者最為適當?",
+          "options": {
+            "A": "尿液試條紙的酮體是測量β-hydroxybutyrate",
+            "B": "尿液試條紙的酮體是測量 acetoacetic acid",
+            "C": "若尿液不夠新鮮可能會造成酮體偽陽性",
+            "D": "酮體造成的酸血症為分泌型代謝性酸中毒"
+          },
+          "answer": "B",
+          "explanation": "傳統尿液試紙利用硝普鈉反應，主要檢測乙醯乙酸（Acetoacetic acid）[cite: 44]。"
+        },
+        {
+          "id": "BIO-0918-09",
+          "subject": "生物化學",
+          "question": "有關測定尿液酸鹼度之敘述,下列何者正確?",
+          "options": {
+            "A": "使用陳舊尿測定時,會因環境細菌之增生而使pH值下降",
+            "B": "當動物發生膀胱炎或尿貯留時,會提高尿液之pH值",
+            "C": "尿液之pH值可直接用來評估病畜體內之酸鹼平衡狀態",
+            "D": "動物多食草料或蔬菜時,會造成尿液呈現微酸性"
+          },
+          "answer": "B",
+          "explanation": "發生膀胱炎或尿貯留時，產氨細菌能將尿素分解為強鹼性的氨，使尿液 pH 值顯著提高變鹼[cite: 44]。"
+        },
+        {
+          "id": "BIO-0918-10",
+          "subject": "生物化學",
+          "question": "有關尿路結石之區分方法與結果,下列敘述何者正確?",
+          "options": {
+            "A": "混濁尿液以60°C加熱後會變澄清透明者,最有可能是胺基酸結石",
+            "B": "混濁尿液以60°C加熱後會變澄清透明者,最有可能是尿酸鹽結石",
+            "C": "混濁尿液以60°C加熱後不變,再加入稀醋酸即變透明者,最有可能是尿酸鹽結石",
+            "D": "混濁尿液以60°C加熱後不變,再加入稀醋酸即變透明者,最有可能是草酸鹽結石"
+          },
+          "answer": "B",
+          "explanation": "尿酸鹽結晶在高溫下溶解度增加，將混濁尿液加熱至 60°C 後會溶解恢復澄清透明[cite: 45]。"
+        },
+        {
+          "id": "BIO-0918-11",
+          "subject": "生物化學",
+          "question": "假設有兩株細菌,一株從熱温泉(平均温度50°C),而另一株從冰湖(平均溫度4°C)分離出來,則下列敘述何者最正確?",
+          "options": {
+            "A": "熱泉細菌的細胞膜比冰湖細菌的細胞膜含有較多的不飽和脂肪酸",
+            "B": "熱泉細菌的細胞膜比冰湖細菌的細胞膜含有較長鏈的脂肪酸",
+            "C": "在室溫下,熱泉細菌的細胞膜較冰湖細菌的細胞膜更具流動性(fluidity)",
+            "D": "熱泉細菌比冰湖細菌有更多的phosphatidylethanolamine"
+          },
+          "answer": "B",
+          "explanation": "高溫下膜流動性會增加，熱泉細菌藉由增加飽和度高及長鏈脂肪酸來維持細胞膜適當的穩定性與流動性[cite: 46]。"
+        },
+        {
+          "id": "BIO-0918-12",
+          "subject": "生物化學",
+          "question": "糖解作用(glycolysis)會因下列那一種情況被抑制?",
+          "options": {
+            "A": "環腺苷酸(cAMP)的濃度下降",
+            "B": "NADH 無法被氧化",
+            "C": "磷酸果糖激酶(phosphofructokinase)活化時",
+            "D": "細胞內無粒線體"
+          },
+          "answer": "B",
+          "explanation": "當 NADH 無法被氧化回 NAD+ 時，糖解作用第六步缺乏 NAD+ 輔酶而使糖解作用遭到抑制[cite: 46]。"
+        },
+        {
+          "id": "BIO-0918-13",
+          "subject": "生物化學",
+          "question": "細胞在無氧狀態下(anaerobic condition)進行葡萄糖糖解作用(glycolysis)時,下列相關敘述何者正確?",
+          "options": {
+            "A": "可進行完整的糖解作用,產生兩分子乳酸(lactate)",
+            "B": "僅能生成NADH,但不會產生ATP",
+            "C": "能同時生成ATP及NADH",
+            "D": "無法進行糖解作用"
+          },
+          "answer": "A",
+          "explanation": "無氧條件下，葡萄糖經糖解生成兩分子丙酮酸，隨後還原為兩分子乳酸並再生 NAD+[cite: 46, 47]。"
+        },
+        {
+          "id": "BIO-0918-14",
+          "subject": "生物化學",
+          "question": "人類細胞之氧化磷酸化反應中,參與電子傳遞鏈與ATP合成的酵素位於何處?",
+          "options": {
+            "A": "電子傳遞鏈位於粒線體外膜;ATP合成的酵素位於線體內膜",
+            "B": "電子傳遞鏈位於粒線體內膜;ATP合成的酵素位於線體外膜",
+            "C": "皆位於粒線體外膜",
+            "D": "皆位於粒線體內膜"
+          },
+          "answer": "D",
+          "explanation": "電子傳遞鏈複合體與 ATP 合成酶皆位於粒線體內膜上[cite: 47]。"
+        },
+        {
+          "id": "BIO-0918-15",
+          "subject": "生物化學",
+          "question": "葡萄糖進入細胞後,主要經由下列何種修飾將其留在細胞內進行代謝?",
+          "options": {
+            "A": "glycosylation",
+            "B": "phosphorylation",
+            "C": "palmitoylation",
+            "D": "acetylation"
+          },
+          "answer": "B",
+          "explanation": "葡萄糖經由己糖激酶磷酸化接上磷酸根（變成 G6P），使其帶電荷無法隨意自由穿透細胞膜而保留在細胞內[cite: 47]。"
+        },
+        {
+          "id": "BIO-0918-16",
+          "subject": "生物化學",
+          "question": "下列哪一項不是因粒線體缺陷所引起的相關疾病?",
+          "options": {
+            "A": "糖尿病(diabetes)",
+            "B": "肝癌形成(hepatocarcinogenesis)",
+            "C": "精神分裂症(schizophrenia)",
+            "D": "重症肌無力(Myasthenia gravis)"
+          },
+          "answer": "D",
+          "explanation": "重症肌無力屬於自體免疫疾病（抗體攻擊神經肌肉接頭的乙醯膽鹼受體），非粒線體缺陷所致[cite: 48]。"
+        },
+        {
+          "id": "BIO-0918-17",
+          "subject": "生物化學",
+          "question": "下列哪一項是因粒線體缺陷所引起的相關疾病?",
+          "options": {
+            "A": "丙酮酸去氫酶缺乏症(Pyruvate dehydrogenase deficiency)",
+            "B": "先天性肌強直症(Myotonia congenita)",
+            "C": "酮酸中毒(ketoacidosis)",
+            "D": "單核球增多症後群(Mononucleosis syndrome)"
+          },
+          "answer": "A",
+          "explanation": "丙酮酸去氫酶缺乏症（PDH deficiency）屬於遺傳性粒線體能量代謝缺陷疾病[cite: 48]。"
+        },
+        {
+          "id": "BIO-0918-18",
+          "subject": "生物化學",
+          "question": "何者是人體紅血球正常的osmosis?",
+          "options": {
+            "A": "isotonic",
+            "B": "hypertonic",
+            "C": "hypotonic",
+            "D": "以上皆是"
+          },
+          "answer": "A",
+          "explanation": "紅血球在正常的生理血漿環境中處於等張（isotonic）平衡狀態[cite: 48, 49]。"
+        },
+        {
+          "id": "BIO-0918-19",
+          "subject": "生物化學",
+          "question": "下列何者不是細胞膜上的蛋白質?",
+          "options": {
+            "A": "integral protein",
+            "B": "peripheral protein",
+            "C": "glycoprotein",
+            "D": "albumin"
+          },
+          "answer": "D",
+          "explanation": "Albumin（白蛋白）是血漿中的主要水溶性蛋白質，非細胞膜結構蛋白[cite: 49]。"
+        },
+        {
+          "id": "BIO-0918-20",
+          "subject": "生物化學",
+          "question": "下列哪一種機制可以在粒線體基質(mitochondrial matrix)內重新產生 NADH ?",
+          "options": {
+            "A": "Malate-aspartate shuttle",
+            "B": "Glycerol phosphate shuttle",
+            "C": "Mitochondrial shuttle",
+            "D": "以上皆是"
+          },
+          "answer": "A",
+          "explanation": "蘋果酸-天門冬氨酸穿梭（Malate-aspartate shuttle）將細胞質的還原力帶入粒線體基質內並重新生成 NADH[cite: 49]。"
+        },
+        {
+          "id": "BIO-0918-21",
+          "subject": "生物化學",
+          "question": "下列哪一種中間產物無法作為糖質新生(gluconeogenesis)合成葡萄糖的原料?",
+          "options": {
+            "A": "Acetyl-CoA",
+            "B": "Glycerol",
+            "C": "Oxaloacetate",
+            "D": "Pyruvate"
+          },
+          "answer": "A",
+          "explanation": "偶數碳脂肪酸代謝產生的 Acetyl-CoA 無法淨轉換為丙酮酸或草醯乙酸，因此無法作為糖質新生的碳骨架原料[cite: 49]。"
+        },
+        {
+          "id": "BIO-0918-22",
+          "subject": "生物化學",
+          "question": "關於細胞呼吸作用的敘述,下列何者錯誤?",
+          "options": {
+            "A": "糖解作用需先提供能量,經受質層次磷酸化直接產生ATP",
+            "B": "檸檬酸循環經受質層次磷酸化直接產生ATP",
+            "C": "糖解作用及檸檬酸循環產生的NADH及FADH2進入電子傳遞鏈經氧化磷酸化產生 ATP",
+            "D": "整個細胞呼吸的主要關鍵點在糖解作用的第一個反應酵素-己糖激酶(hexokinase)"
+          },
+          "answer": "D",
+          "explanation": "糖解作用最主要的限速調控關鍵酵素是第三步的磷酸果糖激酶-1（PFK-1），而非己糖激酶[cite: 51]。"
+        },
+        {
+          "id": "BIO-0918-23",
+          "subject": "生物化學",
+          "question": "有關真核細胞呼吸(cellular respiration) 之敘述,下列何者最不恰當?",
+          "options": {
+            "A": "糖解作用發生在細胞質液(cytosol)",
+            "B": "克氏循環發生在粒線體基質",
+            "C": "電子傳遞鏈和氧化磷酸化反應發生在粒線體內膜",
+            "D": "呼吸作用與發酵作用共有的代謝路徑為克氏循環"
+          },
+          "answer": "D",
+          "explanation": "有氧/無氧呼吸與發酵作用共有的核心代謝路徑是糖解作用（Glycolysis）[cite: 51, 52]。"
+        },
+        {
+          "id": "BIO-0918-24",
+          "subject": "生物化學",
+          "question": "下列何者不是動物細胞內平滑型內質網(smooth endoplasmic reticulum)的功能?",
+          "options": {
+            "A": "製造ATP。",
+            "B": "製造類固醇。",
+            "C": "合成脂肪。",
+            "D": "儲存鈣離子。"
+          },
+          "answer": "A",
+          "explanation": "ATP 主要由粒線體製造，平滑內質網無合成 ATP 功能[cite: 52]。"
+        },
+        {
+          "id": "BIO-0918-25",
+          "subject": "生物化學",
+          "question": "下列何種代謝途徑主要發生在粒線體內膜上?",
+          "options": {
+            "A": "脂肪酸氧化",
+            "B": "電子傳遞鏈",
+            "C": "糖解作用",
+            "D": "檸檬酸循環"
+          },
+          "answer": "B",
+          "explanation": "電子傳遞鏈鑲嵌在粒線體內膜（Inner mitochondrial membrane）上[cite: 52]。"
+        },
+        {
+          "id": "BIO-0918-26",
+          "subject": "生物化學",
+          "question": "通常生物化學家會將生物體內的有機分子歸納為四大類,是下列哪四大類?",
+          "options": {
+            "A": "羥基、羰基、胺基、磷酸根",
+            "B": "DNA、RNA、胺基酸、醣類",
+            "C": "蛋白質、碳水化合物、脂質、核酸",
+            "D": "碳、氫、氧、氮"
+          },
+          "answer": "C",
+          "explanation": "生物體四大類主要有機生物分子為蛋白質、碳水化合物（醣類）、脂質與核酸[cite: 52]。"
+        },
+        {
+          "id": "BIO-0918-27",
+          "subject": "生物化學",
+          "question": "關於雙極性(amphipathic) 化合物與水混合時的反應與結構特徵,下列敘述何者正確?",
+          "options": {
+            "A": "非極性基團具有被水吸引的親水性趨勢",
+            "B": "極性基團會被水排斥並朝內相互結合",
+            "C": "非極性基團藉著忌水性作用朝內相互結合",
+            "D": "雙極性化合物與水混合後,最後會形成不規則的微粒"
+          },
+          "answer": "C",
+          "explanation": "雙極性分子與水混合時，非極性基團因疏水作用朝內相互結合，極性基團朝外與水結合[cite: 53]。"
+        },
+        {
+          "id": "BIO-0918-28",
+          "subject": "生物化學",
+          "question": "關於原核生物(Prokaryotes)的特徵,下列敘述何者正確?",
+          "options": {
+            "A": "遺傳物質(DNA)由核膜包圍,呈線狀存在於細胞核中",
+            "B": "細胞質中具有粒線體、內質網及高基氏體等膜構造的胞器",
+            "C": "細胞壁的主要成分為胜肽聚醣(peptidoglycan)",
+            "D": "生殖方式主要透過有絲分裂與減數分裂進行"
+          },
+          "answer": "C",
+          "explanation": "原核生物細胞壁的主要成分為胜肽聚醣（peptidoglycan）[cite: 53]。"
+        },
+        {
+          "id": "BIO-0918-29",
+          "subject": "生物化學",
+          "question": "下列關於真核生物(Eukaryotes)的敘述,何者不是真核生物的特徵?",
+          "options": {
+            "A": "細胞質中具有如粒線體、內質網、高基氏體及溶小體等膜構造的胞器",
+            "B": "遺傳物質(DNA)裸露於細胞質中,完全缺少核膜包圍",
+            "C": "具有複雜的細胞骨架及細胞內的運輸系統",
+            "D": "細胞分裂時具有紡錘絲及中心粒"
+          },
+          "answer": "B",
+          "explanation": "遺傳物質缺乏核膜包覆且裸露於細胞質中是原核生物的特徵[cite: 53]。"
+        },
+        {
+          "id": "BIO-0918-30",
+          "subject": "生物化學",
+          "question": "下列關於激素(荷爾蒙)組成的敘述,何者正確?",
+          "options": {
+            "A": "激素僅能由脂質組成,無法由蛋白質組成",
+            "B": "蛋白質合成激素是由大小不同的胺基酸組合而成",
+            "C": "兒茶酚胺、血清素、甲狀腺素與胰島素均屬於脂質組成的激素",
+            "D": "激素不需要與細胞、組織或器官的特定接受器結合即可發揮作用"
+          },
+          "answer": "B",
+          "explanation": "蛋白質/胜肽類激素是由不同數量的胺基酸縮合組合而成[cite: 53, 54]。"
+        },
+        {
+          "id": "BIO-0918-31",
+          "subject": "生物化學",
+          "question": "關於醣類與蛋白質在生物體內的功能與消耗關係,下列敘述何者不是醣類的功能或相關特性?",
+          "options": {
+            "A": "作為生物體建構身體組織與維持正常代謝的原料",
+            "B": "作為提供能量的來源之一,在醣類消耗殆盡時才會利用蛋白質",
+            "C": "充足的醣類可以避免蛋白質被消耗,讓蛋白質得以建構身體組織",
+            "D": "生物體會優先消耗醣類及脂質,而不是直接將蛋白質作為能量來源"
+          },
+          "answer": "A",
+          "explanation": "蛋白質才是建構肌肉組織、酵素與荷爾蒙的核心結構原料[cite: 54]。"
+        },
+        {
+          "id": "BIO-0918-32",
+          "subject": "生物化學",
+          "question": "細胞內的生物能量轉換高度依賴「高能磷酸化合物」。下列關於高能磷酸化合物及其磷酸基轉移電位的敘述,何者最為正確?",
+          "options": {
+            "A": "磷酸烯醇丙酮酸(PEP)水解釋放的標準自由能低於ATP",
+            "B": "1,3-二磷酸甘油酸(1,3-BPG)與PEP的磷酸基轉移電位均高於ATP,可在糖解作用中催化基質層級磷酸化生成 ATP",
+            "C": "ATP 是細胞內標準自由能水解值最高的化合物,因此作為主要能量貨幣",
+            "D": "葡萄糖-6-磷酸具有比ATP更高的高能磷酸酐鍵,常作為高能供體"
+          },
+          "answer": "B",
+          "explanation": "PEP 與 1,3-BPG 水解自由能高於 ATP，因此能轉移磷酸基給 ADP 生成 ATP（基質層級磷酸化）[cite: 55]。"
+        },
+        {
+          "id": "BIO-0918-33",
+          "subject": "生物化學",
+          "question": "三磷酸腺苷(ATP)水解為ADP 與Pi能釋放大量自由能的主要化學原因為何?",
+          "options": {
+            "A": "ADP分子內含有比ATP更多的負電荷排斥力",
+            "B": "ATP 水解過程中破壞了極穩定的胜肽鍵",
+            "C": "水解產物(ADP與Pi)具有比ATP更佳的共振穩定性與水合作用",
+            "D": "ATP分子中的腺嘌呤鹼基具有極高的化學不穩定性"
+          },
+          "answer": "C",
+          "explanation": "ATP 水解釋放自由能主要源於產物（ADP 與 Pi）減輕了負電荷靜電排斥，且具備更高共振穩定度與水合能[cite: 55]。"
+        },
+        {
+          "id": "BIO-0918-34",
+          "subject": "生物化學",
+          "question": "當血漿 pH 值為7.4,而某一弱酸性藥物分子的pKa值為4.4時,則血漿中離子化與非離子化藥物濃度的比例為多少?",
+          "options": {
+            "A": "1:1",
+            "B": "1:1000",
+            "C": "1000:1",
+            "D": "0.01:1"
+          },
+          "answer": "C",
+          "explanation": "根據 Henderson-Hasselbalch 方程式：7.4 = 4.4 + log([A-]/[HA]) => log([A-]/[HA]) = 3 => 比例為 1000:1[cite: 56]。"
+        },
+        {
+          "id": "BIO-0918-35",
+          "subject": "生物化學",
+          "question": "肌酸激酶(Creatine kinase, CK)在細胞能量代謝中扮演關鍵角色。下列何者為主要存在於心肌(Myocardium)中的CK同工酶型態?",
+          "options": {
+            "A": "CK1 (BB)",
+            "B": "CK2 (MB)",
+            "C": "CK3 (MM)",
+            "D": "CK-Mt"
+          },
+          "answer": "B",
+          "explanation": "CK2 (MB) 型同工酶主要存在於心肌（Myocardium）中[cite: 56, 57]。"
+        }
+    [      
