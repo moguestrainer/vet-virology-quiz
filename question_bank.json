@@ -2,7 +2,6 @@
   {
     "id": "VIR-W01-01",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "狂犬病病毒(Rabies virus)感染會在神經細胞內形成何種包涵體?",
     "options": {
       "A": "嗜酸性核內包涵體",
@@ -17,7 +16,6 @@
   {
     "id": "VIR-W01-02",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列何種病毒之基因體為單股正指向RNA (+ssRNA),且其純化之基因體(purified genome) 本身即具感染性(infectious)?",
     "options": {
       "A": "狂犬病毒(Rabies Virus)",
@@ -32,7 +30,6 @@
   {
     "id": "VIR-W01-03",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "下列何種病毒在宿主細胞內進行複製時,其基因體(genome)之複製與病毒顆粒之組合均發生於細胞核(nucleus)內?",
     "options": {
       "A": "痘病毒(Poxvirus)",
@@ -47,7 +44,6 @@
   {
     "id": "VIR-W01-04",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "下列有關病毒複製過程的敘述,何者正確?",
     "options": {
       "A": "病毒侵入細胞後至可測出感染性病毒顆粒出現的時間稱為靜止期(eclipse period)",
@@ -62,7 +58,6 @@
   {
     "id": "VIR-W01-05",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列何者為疱疹病毒(Herpesvirus)成熟過程中,獲得其外套膜(envelope)的主要細胞構造?",
     "options": {
       "A": "質膜(Plasma membrane)",
@@ -77,7 +72,6 @@
   {
     "id": "VIR-W01-06",
     "subject": "病毒學",
-    "topic": "病毒致病機制與傳播",
     "question": "關於人類免疫缺乏病毒(HIV)感染的敘述,下列何者最正確?",
     "options": {
       "A": "HIV 主要感染CD8 T淋巴球,並透過破壞CD8*T細胞造成免疫缺陷",
@@ -92,7 +86,6 @@
   {
     "id": "VIR-W01-07",
     "subject": "病毒學",
-    "topic": "病毒實驗室診斷",
     "question": "在病毒學實驗中,雞胚蛋曾被廣泛用於禽類病毒的分離與繁殖;此外,部分哺乳類病毒也可利用雞胚蛋作為常規的培養系統。下列關於其主要原因的敘述,何者最正確?",
     "options": {
       "A": "雞胚蛋內含有完整的細菌菌叢,可以提供病毒繁殖所需的營養,因此適合培養所有病毒",
@@ -107,7 +100,6 @@
   {
     "id": "VIR-W01-08",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "以下有關病毒複製機制之敘述何者正確?",
     "options": {
       "A": "採二分裂法產生病毒顆粒",
@@ -122,7 +114,6 @@
   {
     "id": "VIR-W01-09",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "2015年臺灣爆發高病原性家禽流行性感冒重大疫情,當年度同時有3種亞型發生,但不包括下列何者?",
     "options": {
       "A": "H5N2",
@@ -137,7 +128,6 @@
   {
     "id": "VIR-W01-10",
     "subject": "病毒學",
-    "topic": "病毒實驗室診斷",
     "question": "在細胞培養技術發展以前,研究animal viruses 最大的實驗問題之一是什麼?",
     "options": {
       "A": "Animal viruses 無法感染活體動物",
@@ -152,7 +142,6 @@
   {
     "id": "VIR-W01-11",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "Virus attachment 最基本的機制為何?",
     "options": {
       "A": "Viral genome 與 host DNA 直接結合",
@@ -167,7 +156,6 @@
   {
     "id": "VIR-W01-12",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "病毒複製的第一個重要步驟通常是什麼?",
     "options": {
       "A": "組裝(assembly)",
@@ -182,7 +170,6 @@
   {
     "id": "VIR-W01-13",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "病毒感染細胞後,如果看到細胞出現變形、死亡或脫落等現象,這種現象稱為什麼?",
     "options": {
       "A": "細胞病變效應(cytopathic effect, CPE)",
@@ -197,7 +184,6 @@
   {
     "id": "VIR-W01-14",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "有膜病毒(Enveloped virus)在組裝與釋放時,通常需要穿過細胞膜並獲得其脂質雙層外膜。以冠狀病毒(Coronavirus)為例,病毒顆粒最後是在哪一個細胞胞器或膜結構進行出芽(budding)而完成外膜組裝?",
     "options": {
       "A": "細胞質膜(Plasma membrane)",
@@ -212,7 +198,6 @@
   {
     "id": "VIR-W01-15",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "絕大多數的DNA病毒會利用宿主的細胞核進行基因體複製與轉錄,但有一個重要的大型DNA病毒家族卻完全在宿主細胞質中進行複製與病毒顆粒組裝。請問此病毒家族為何?",
     "options": {
       "A": "皰疹病毒科(Herpesviridae)",
@@ -227,7 +212,6 @@
   {
     "id": "VIR-W01-16",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "狂犬病毒(Rabies Virus)與下列哪一種受體細胞相互作用?",
     "options": {
       "A": "神經細胞;乙醯膽鹼(ACh)受體",
@@ -242,7 +226,6 @@
   {
     "id": "VIR-W01-17",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "有關病毒性腦膜炎(virus meningitis)的護理措施,下列敘述何者錯誤?",
     "options": {
       "A": "採支持性療法或症狀治療",
@@ -257,7 +240,6 @@
   {
     "id": "VIR-W01-18",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "有關腸病毒(enteroviruses infection) 護理指導,下列敘述何者最適當?",
     "options": {
       "A": "與家人吃飯時應避免共餐以預防交互傳染",
@@ -272,7 +254,6 @@
   {
     "id": "VIR-W01-19",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列何者的基因結構與其它三者不同?",
     "options": {
       "A": "A細小病毒(parvovirus)",
@@ -287,7 +268,6 @@
   {
     "id": "VIR-W01-20",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "病毒的構造是決定其是否能抵抗消毒劑的原因之一,下列何種病毒因不具套膜可以抵抗乙醚的破壞?",
     "options": {
       "A": "單純疱疹病毒(Herpes simplex virus)",
@@ -302,7 +282,6 @@
   {
     "id": "VIR-W01-21",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "下列有關病毒複製之敘述,何者最不適當?",
     "options": {
       "A": "病毒的基因體複製是在病毒結構蛋白合成之後才開始進行",
@@ -317,7 +296,6 @@
   {
     "id": "VIR-W01-22",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "病毒會針對特定細胞或組織造成傷害,取決於病毒的組織趨向性(tropism),下列何因素對組織趨向性的影響最小?",
     "options": {
       "A": "宿主細胞表面的受體蛋白",
@@ -332,7 +310,6 @@
   {
     "id": "VIR-W01-23",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列關於病毒構造的敘述,何者錯誤?",
     "options": {
       "A": "腸病毒(enterovirus)由殼體(capsid)包覆,因此酒精對其殺滅效果不佳",
@@ -347,7 +324,6 @@
   {
     "id": "VIR-W01-24",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "有關豬環狀病毒之敘述,下列何者錯誤?",
     "options": {
       "A": "為引發豬離乳後多系統消耗症候群(postweaning multisystemic wasting syndrome)之致病原",
@@ -362,7 +338,6 @@
   {
     "id": "VIR-W01-25",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "狂犬病病毒屬於下列何者?",
     "options": {
       "A": "single-stranded enveloped RNA virus",
@@ -377,7 +352,6 @@
   {
     "id": "VIR-W01-26",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "下列何種病毒之基因組複製(Genome replication)與基因轉錄(Transcription)皆主要在宿主細胞的「細胞核」內進行?",
     "options": {
       "A": "腺病毒(Adenovirus)",
@@ -392,7 +366,6 @@
   {
     "id": "VIR-W01-27",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "下列何者不是流行性病毒結膜炎常見之症狀?",
     "options": {
       "A": "眼部分泌物增多",
@@ -407,7 +380,6 @@
   {
     "id": "VIR-W01-28",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "有關巨細胞病毒視網膜炎(cytomegalovirus retinitis)之敘述,下列何者錯誤?",
     "options": {
       "A": "正常人一旦被巨細胞病毒感染,就會發生巨細胞病毒視網膜炎",
@@ -422,7 +394,6 @@
   {
     "id": "VIR-W01-29",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "下列對於副黏液病毒科(Paramyxoviridae)之敘述,何者正確?",
     "options": {
       "A": "為正股(positive sense) RNA病毒",
@@ -437,7 +408,6 @@
   {
     "id": "VIR-W01-30",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "口蹄疫病毒 O/TAIWAN/99會感染下列何種動物?",
     "options": {
       "A": "僅感染牛及羊",
@@ -452,7 +422,6 @@
   {
     "id": "VIR-W01-31",
     "subject": "病毒學",
-    "topic": "病毒實驗室診斷",
     "question": "在細胞培養中,感染禽呼腸孤病毒(avian reovirus)的細胞出現多個細胞彼此融合,形成具有多個細胞核的大型細胞。此現象稱為何者?",
     "options": {
       "A": "血球凝集(hemagglutination)",
@@ -467,7 +436,6 @@
   {
     "id": "VIR-W01-32",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "A型流感病毒新生成的病毒顆粒容易再次黏附於宿主細胞或彼此聚集。病毒主要利用下列何種蛋白質切除唾液酸,以促進病毒釋放?",
     "options": {
       "A": "血球凝集素(HA)",
@@ -482,7 +450,6 @@
   {
     "id": "VIR-W01-33",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "反轉錄病毒的基因體為下列何者?",
     "options": {
       "A": "單股正向RNA",
@@ -497,7 +464,6 @@
   {
     "id": "VIR-W01-34",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "下列有關伊波拉病毒感染症的敘述,何者錯誤?",
     "options": {
       "A": "可透過接觸病毒污染之血液、分泌物、排泄物或唾液感染",
@@ -512,7 +478,6 @@
   {
     "id": "VIR-W01-35",
     "subject": "病毒學",
-    "topic": "病毒分類",
     "question": "下列何組病毒屬於相同病毒科(family)?",
     "options": {
       "A": "A型肝炎病毒(hepatitis A virus)、B型肝炎病毒(hepatitis B virus)",
@@ -527,7 +492,6 @@
   {
     "id": "VIR-W01-36",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "下列有關病毒致病性的敘述,何者最適當?",
     "options": {
       "A": "病毒之潛伏性感染(latent infection) 造成細胞之衰老(senescence)",
@@ -542,7 +506,6 @@
   {
     "id": "VIR-W01-37",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "下列有關致癌性病毒(oncogenic virus)的敘述,何者最適當?",
     "options": {
       "A": "多瘤病毒(polyomavirus, SV40)之T抗原可與寄主細胞中之腫瘤抑制蛋白結合",
@@ -557,7 +520,6 @@
   {
     "id": "VIR-W01-38",
     "subject": "病毒學",
-    "topic": "抗病毒藥物",
     "question": "有關流行性感冒病毒蛋白neuraminidase (NA)的敘述,下列何者最不適當?",
     "options": {
       "A": "為一種酵素,能幫助病毒離開宿主細胞",
@@ -572,7 +534,6 @@
   {
     "id": "VIR-W01-39",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "有關輪狀病毒(rotaviruses)的特色,下列敘述何者最不適當?",
     "options": {
       "A": "是一個雙股RNA (double-stranded RNA) 病毒",
@@ -587,7 +548,6 @@
   {
     "id": "VIR-W01-40",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "關於麻疹(Measles)的敘述,下列何者最適當?",
     "options": {
       "A": "其致病原麻疹病毒屬黏液病毒(Myxovirus)",
@@ -602,7 +562,6 @@
   {
     "id": "VIR-W01-41",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "在2015~2016年間爆發茲卡(Zika)病毒大流行,下列有關該病毒的敘述何者最不適當?",
     "options": {
       "A": "猴子是茲卡病毒的宿主之一",
@@ -617,7 +576,6 @@
   {
     "id": "VIR-W01-42",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "下列對肝炎病毒之敘述,何者最適當?",
     "options": {
       "A": "B型肝炎病毒容易透過口糞傳染,主要來自受污染之海鮮食品",
@@ -632,7 +590,6 @@
   {
     "id": "VIR-W01-43",
     "subject": "病毒學",
-    "topic": "病毒實驗室診斷",
     "question": "下列何種方法最常用於測定病毒斑單位(Plaque-forming units, PFU)以進行病毒定量?",
     "options": {
       "A": "中和試驗(Neutralization test)",
@@ -647,7 +604,6 @@
   {
     "id": "VIR-W01-44",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列何者是原核細胞與真核細胞都有,但病毒沒有的生命特徵?",
     "options": {
       "A": "使用核酸儲存遺傳資訊",
@@ -662,7 +618,6 @@
   {
     "id": "VIR-W01-45",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列關於「巨大病毒」與「迷你病毒」的敘述,何者正確?",
     "options": {
       "A": "巨大病毒與迷你病毒的發現,引發了關於「細胞起源」的激烈討論",
@@ -677,7 +632,6 @@
   {
     "id": "VIR-W01-46",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "關於病毒感染感受性宿主細胞並在溶裂模式(lytic mode)下進行複製的階段,下列敘述何者最正確?",
     "options": {
       "A": "病毒複製的六個順序階段依次為:附著 ->脱外套 -> 穿透->複製 -> 集合 -> 釋放",
@@ -692,7 +646,6 @@
   {
     "id": "VIR-W01-47",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "關於病毒顆粒(virion)、衣殼(capsid)與核衣殼(nucleocapsid)的敘述,下列何者正確?",
     "options": {
       "A": "病毒顆粒定由核酸、衣殼及脂質包膜三部分共同組成。",
@@ -707,7 +660,6 @@
   {
     "id": "VIR-W01-48",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "關於病毒與細菌特性的比較,下列哪一項說明是正確的?",
     "options": {
       "A": "所有病毒與細菌都是專性細胞內寄生生物",
@@ -722,7 +674,6 @@
   {
     "id": "VIR-W01-49",
     "subject": "病毒學",
-    "topic": "病毒學總論",
     "question": "下列何種動物病毒最早被證實為可濾過性病毒?",
     "options": {
       "A": "狂犬病病毒",
@@ -737,7 +688,6 @@
   {
     "id": "VIR-W01-50",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列有關動物病毒基因體的敘述,何者正確?",
     "options": {
       "A": "正向RNA必須先轉錄成mRNA,才能進行蛋白質轉譯",
@@ -752,7 +702,6 @@
   {
     "id": "VIR-W01-51",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "下列哪一個順序最符合典型病毒複製週期?",
     "options": {
       "A": "脫殼 →附著→穿透→釋放",
@@ -767,7 +716,6 @@
   {
     "id": "VIR-W01-52",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "下列哪一種病毒屬於反轉錄病毒科?",
     "options": {
       "A": "小帶狀皰疹病毒",
@@ -782,7 +730,6 @@
   {
     "id": "VIR-W01-53",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "關於病毒受體或進入機制的敘述,下列何者正確?",
     "options": {
       "A": "狂犬病毒在神經細胞上的受體為CD4分子",
@@ -797,7 +744,6 @@
   {
     "id": "VIR-W01-54",
     "subject": "病毒學",
-    "topic": "病毒基本特性與結構",
     "question": "下列有關具封套(Enveloped virus)與不具封套(Non-enveloped virus)病毒之理化特性的敘述,何者正確?",
     "options": {
       "A": "具封套病毒對脂溶劑(如乙醚、氯仿)具抵抗力,但不具封套病毒則敏感",
@@ -812,7 +758,6 @@
   {
     "id": "VIR-W01-55",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "下列何者感染上皮細胞時,會產生大的嗜伊紅性細胞質內包涵體(eosinophilic cytoplasmic inclusion bodies) ?",
     "options": {
       "A": "Herpesviruses",
@@ -827,7 +772,6 @@
   {
     "id": "VIR-W01-56",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "關於「有套膜病毒」與「無套膜病毒」在釋放階段的比較,下列何者最為正確?",
     "options": {
       "A": "有套膜病毒釋放時必定會造成宿主細胞立即崩解死亡",
@@ -842,7 +786,6 @@
   {
     "id": "VIR-W01-57",
     "subject": "病毒學",
-    "topic": "病毒複製與增殖",
     "question": "有關動物病毒基本構造與增殖特性之敘述,下列何者錯誤?",
     "options": {
       "A": "病毒的基因體可能為DNA或RNA,但絕不會同時存在",
@@ -857,7 +800,6 @@
   {
       "id": "VIR-W02-01",
       "subject": "病毒學",
-      "topic": "病毒血症與擴散",
       "question": "關於病毒在宿主體內擴散的機制,當病毒從初次複製部位進入血液循環,並經由血行播散至全身目標器官(如肝、脾、皮膚)的過程,稱之為:",
       "options": {
         "A": "局部感染(Localized infection)",
@@ -872,7 +814,6 @@
     {
       "id": "VIR-W02-02",
       "subject": "病毒學",
-      "topic": "細胞週期與病毒複製",
       "question": "細小病毒科(Parvoviridae)需要依賴宿主細胞處於下列哪一個細胞週期階段(Cell cycle phase)才能順利進行DNA複製?",
       "options": {
         "A": "G0期",
@@ -887,7 +828,6 @@
     {
       "id": "VIR-W02-03",
       "subject": "病毒學",
-      "topic": "免疫病理反應",
       "question": "成年小白鼠腦內接種淋巴性脈絡膜腦膜炎病毒(LCMV)所引起的致死性腦膜炎,其主要致病機制為何?",
       "options": {
         "A": "病毒直接造成大量神經細胞溶解壞死(CPE)",
@@ -902,7 +842,6 @@
     {
       "id": "VIR-W02-04",
       "subject": "病毒學",
-      "topic": "垂直傳播",
       "question": "下列何種病毒感染母畜後,主要經由胎盤穿透而引起胎兒流產、木乃伊化或先天性畸型(垂直傳播)?",
       "options": {
         "A": "狂犬病病毒(Rabies virus)",
@@ -917,7 +856,6 @@
     {
       "id": "VIR-W02-05",
       "subject": "病毒學",
-      "topic": "病毒基因與免疫調節",
       "question": "某些大型DNA病毒能合成干擾宿主細胞激素作用的蛋白,藉以減弱宿主防禦反應,這類病毒編碼的蛋白統稱?",
       "options": {
         "A": "病毒激素(Virokines)",
@@ -932,7 +870,6 @@
     {
       "id": "VIR-W02-06",
       "subject": "病毒學",
-      "topic": "神經傳播",
       "question": "狂犬病病毒(Rabies virus)與假性狂犬病病毒(Pseudorabies virus)侵入宿主後,主要利用何種途徑向心性傳播(Centripetal spread) 至中樞神經系統(CNS) ?",
       "options": {
         "A": "淋巴管液流",
@@ -947,7 +884,6 @@
     {
       "id": "VIR-W02-07",
       "subject": "病毒學",
-      "topic": "新城病病毒",
       "question": "目前在臺灣流行的新城病病毒主要為那一基因型?",
       "options": {
         "A": "I",
@@ -962,7 +898,6 @@
     {
       "id": "VIR-W02-08",
       "subject": "病毒學",
-      "topic": "病毒致病機制",
       "question": "關於病毒在宿主體內的感染、擴散與發病機制,下列敘述何者最為正確?",
       "options": {
         "A": "所有能在細胞培養中引起強烈細胞致死效應的病毒,在動物體內必定會造成嚴重的致死性臨床疾病",
@@ -977,7 +912,6 @@
     {
       "id": "VIR-W02-09",
       "subject": "病毒學",
-      "topic": "干擾素機制",
       "question": "下列哪一種病毒「不會」合成一種RNAs,阻礙initiation factor-2 (elF-2)的磷化作用(phosphorylation),導致減弱或阻止病毒複製病毒干擾蛋白素(interferon)的功能?",
       "options": {
         "A": "人類免疫缺乏病毒(HIV)",
@@ -992,7 +926,6 @@
     {
       "id": "VIR-W02-10",
       "subject": "病毒學",
-      "topic": "小RNA病毒科",
       "question": "關於 Picornavirus (小RNA病毒科) 的敘述,下列何者正確?",
       "options": {
         "A": "Picornavirus 是具有包膜(enveloped)的雙股RNA病毒。",
@@ -1007,7 +940,6 @@
     {
       "id": "VIR-W02-11",
       "subject": "病毒學",
-      "topic": "犬瘟熱病毒",
       "question": "關於犬瘟熱病毒(Canine distemper virus, CDV)之組織嗜性與細胞受體之敘述,下列何者正確?",
       "options": {
         "A": "其病毒表面之血球凝集素(H蛋白)主要結合至免疫細胞表面的SLAM (CD150)受體以及上皮細胞表面的Nectin-4受體。",
@@ -1022,7 +954,6 @@
     {
       "id": "VIR-W02-12",
       "subject": "病毒學",
-      "topic": "PRRSV持續性感染",
       "question": "豬繁殖與呼吸綜合症病毒(PRRSV)在感染豬隻時,造成長期且持續性病毒血症(persistent viremia)的主要致病機制為何?",
       "options": {
         "A": "病毒基因體會永久整合至豬隻肌肉與脂肪細胞的染色體中,使免疫系統無法觸及。",
@@ -1037,7 +968,6 @@
     {
       "id": "VIR-W02-13",
       "subject": "病毒學",
-      "topic": "宿主因素與疾病",
       "question": "下列何者最能解釋為什麼相同病毒感染不同宿主時,可能造成不同程度的疾病?",
       "options": {
         "A": "病毒的核酸種類(type of viral genome)完全決定疾病嚴重度",
@@ -1052,7 +982,6 @@
     {
       "id": "VIR-W02-14",
       "subject": "病毒學",
-      "topic": "致病過程",
       "question": "某病毒感染呼吸道上皮細胞後,先在局部複製,之後進入血液並到達另一個器官,在該器官大量複製並造成組織損傷。下列哪一項最符合此病毒的致病過程(pathogenesis) ?",
       "options": {
         "A": "局部複製(local replication) →病毒擴散(dissemination)→標的器官感染(target-organ infection) → 組織損傷(tissue injury)",
@@ -1067,7 +996,6 @@
     {
       "id": "VIR-W02-15",
       "subject": "病毒學",
-      "topic": "局部與全身感染",
       "question": "下列敘述何者正確?",
       "options": {
         "A": "Localized infection 一定代表疾病很輕微",
@@ -1082,7 +1010,6 @@
     {
       "id": "VIR-W02-16",
       "subject": "病毒學",
-      "topic": "呼吸道沉降",
       "question": "吸入的粒子大小會影響其進入 respiratory tract 的深度。下列何者正確?",
       "options": {
         "A": "$>10~\\mu m$ 的粒子最容易直接進入 alveoli",
@@ -1097,7 +1024,6 @@
     {
       "id": "VIR-W02-17",
       "subject": "病毒學",
-      "topic": "血液傳播",
       "question": "與人共用針具或稀釋液注射毒品,可能感染下列那些疾病?①愛滋病②B型肝炎③C型肝炎",
       "options": {
         "A": "僅①②",
@@ -1112,7 +1038,6 @@
     {
       "id": "VIR-W02-18",
       "subject": "病毒學",
-      "topic": "腸道病毒比較",
       "question": "有關輪狀病毒(rotavirus)和諾羅病毒(norovirus)之比較,下列敘述何者錯誤?",
       "options": {
         "A": "輪狀病毒好發於嬰幼兒,諾羅病毒好發於所有年齡層",
@@ -1127,7 +1052,6 @@
     {
       "id": "VIR-W02-19",
       "subject": "病毒學",
-      "topic": "豬瘟病毒",
       "question": "有關豬瘟之敘述,何者錯誤?",
       "options": {
         "A": "大部分豬瘟病毒株在細胞培養時均不會產生CPE",
@@ -1142,7 +1066,6 @@
     {
       "id": "VIR-W02-20",
       "subject": "病毒學",
-      "topic": "免疫逃脫",
       "question": "許多病毒(例如巨細胞病毒CMV或單純疱疹病毒HSV)具有抑制宿主細胞MHC class 1分子表現或運送的機制,其主要的生物學意義為何?",
       "options": {
         "A": "阻止抗原呈獻給CD8+細胞毒殺性T細胞,從而逃避細胞媒介免疫的清除。",
@@ -1157,7 +1080,6 @@
     {
       "id": "VIR-W02-21",
       "subject": "病毒學",
-      "topic": "細胞病變",
       "question": "下列何種病毒感染可造成鄰近細胞連接起來,形成融合細胞或大的多核巨細胞的細胞病變?",
       "options": {
         "A": "Adenovirus",
@@ -1172,7 +1094,6 @@
     {
       "id": "VIR-W02-22",
       "subject": "病毒學",
-      "topic": "毒力指標",
       "question": "小鼠50%致死劑量(50% mouse lethal dose, MLD50),是用於描述病原的何種因子?",
       "options": {
         "A": "感染力(infectivity)",
@@ -1187,7 +1108,6 @@
     {
       "id": "VIR-W02-23",
       "subject": "病毒學",
-      "topic": "潛伏感染",
       "question": "牛傳染性鼻氣管炎病毒在下列那一部位潛伏感染?",
       "options": {
         "A": "氣管",
@@ -1202,7 +1122,6 @@
     {
       "id": "VIR-W02-24",
       "subject": "病毒學",
-      "topic": "包涵體",
       "question": "下列何種病毒感染可同時形成細胞質內及核內嗜酸性包涵體?",
       "options": {
         "A": "豬假性狂犬病病毒",
@@ -1217,7 +1136,6 @@
     {
       "id": "VIR-W02-25",
       "subject": "病毒學",
-      "topic": "潛伏期",
       "question": "豬隻自然感染非洲豬瘟病毒時,其潛伏期約為幾天?",
       "options": {
         "A": "小於2天",
@@ -1232,7 +1150,6 @@
     {
       "id": "VIR-W02-26",
       "subject": "病毒學",
-      "topic": "疾病決定因子",
       "question": "下列何者不是引起疾病之決定因子?",
       "options": {
         "A": "宿主",
@@ -1247,7 +1164,6 @@
     {
       "id": "VIR-W02-27",
       "subject": "病毒學",
-      "topic": "致病機轉",
       "question": "關於病毒的致病機轉,下列何者錯誤?",
       "options": {
         "A": "干擾素與細胞激素可能引起類流感症狀",
@@ -1262,7 +1178,6 @@
     {
       "id": "VIR-W02-28",
       "subject": "病毒學",
-      "topic": "細胞病變機制",
       "question": "下列有關病毒感染細胞之病變機制,何者最適當?",
       "options": {
         "A": "單純疱疹病毒(herpes simplex virus)感染之細胞核內可形成 Cowdry type A 包涵體",
@@ -1277,7 +1192,6 @@
     {
       "id": "VIR-W02-29",
       "subject": "病毒學",
-      "topic": "細胞進入機制",
       "question": "病毒感染時最常利用下列何種蛋白質進入細胞內?",
       "options": {
         "A": "基質蛋白(matrix protein)",
@@ -1292,7 +1206,6 @@
     {
       "id": "VIR-W02-30",
       "subject": "病毒學",
-      "topic": "小病毒B19",
       "question": "有關 parvovirus B19的敘述,下列何者最適當?",
       "options": {
         "A": "為雙股DNA 病毒",
@@ -1307,7 +1220,6 @@
     {
       "id": "VIR-W02-31",
       "subject": "病毒學",
-      "topic": "腫瘤病毒",
       "question": "下列何種病毒感染人類引發疾病後,比較不會直接造成細胞增生形成腫瘤?",
       "options": {
         "A": "B型肝炎病毒(HBV)",
@@ -1322,7 +1234,6 @@
     {
       "id": "VIR-W02-32",
       "subject": "病毒學",
-      "topic": "致癌病毒",
       "question": "下列何者可以在人類造成癌症？①腺病毒 ②單純疱疹病毒 ③人類疱疹病毒4型 ④人類疱疹病毒8型 ⑤痘病毒 ⑥人類嗜T淋巴細胞病毒1型",
       "options": {
         "A": "136",
@@ -1337,7 +1248,6 @@
     {
       "id": "VIR-W02-33",
       "subject": "病毒學",
-      "topic": "全身性症狀",
       "question": "下列那一個最有可能是病毒感染引發「全身性類感冒症狀(flu-like systemic symptom)」之因子?",
       "options": {
         "A": "T細胞",
@@ -1352,7 +1262,6 @@
     {
       "id": "VIR-W02-34",
       "subject": "病毒學",
-      "topic": "MHC多型性",
       "question": "關於 major histocompatibility complex (MHC) polymorphism 與抗病毒免疫反應,下列敘述何者最具相關性?",
       "options": {
         "A": "增加可被 MHC 呈獻的抗原種類,有利於抑制病毒在族群中傳播",
@@ -1367,7 +1276,6 @@
     {
       "id": "VIR-W02-35",
       "subject": "病毒學",
-      "topic": "包涵體特性",
       "question": "關於病毒感染細胞後所形成的「包涵體(Inclusion bodies)」,下列敘述何者最不正確?",
       "options": {
         "A": "包涵體經固定與細胞學染色處理後,即可於光學顯微鏡下觀察",
@@ -1382,7 +1290,6 @@
     {
       "id": "VIR-W02-36",
       "subject": "病毒學",
-      "topic": "單步生長曲線",
       "question": "下列何者不是單步生長曲線(one-step growth curve)所描述的三大階段?",
       "options": {
         "A": "Attachment(吸附)",
@@ -1397,7 +1304,6 @@
     {
       "id": "VIR-W02-37",
       "subject": "病毒學",
-      "topic": "病毒吸附",
       "question": "病毒感染宿主細胞的第一步通常是什麼?",
       "options": {
         "A": "複製核酸",
@@ -1412,7 +1318,6 @@
     {
       "id": "VIR-W02-38",
       "subject": "病毒學",
-      "topic": "細胞病變效應",
       "question": "下列關於病毒感染細胞所產生的細胞病變效應(cytopathic effect, CPE)之敘述,何者正確?",
       "options": {
         "A": "所有病毒感染的細胞都會形成明顯的包涵體,因此可藉由包涵體直接鑑定特定病毒。",
@@ -1427,7 +1332,6 @@
     {
       "id": "VIR-W02-39",
       "subject": "病毒學",
-      "topic": "CPE觀察",
       "question": "某動物細胞感染病毒後,顯微鏡下觀察到細胞圓化、脫離培養皿,並可見細胞融合形成多核巨細胞。下列何者最適合描述此現象?",
       "options": {
         "A": "病毒吸附(attachment)",
@@ -1442,7 +1346,6 @@
     {
       "id": "VIR-W02-40",
       "subject": "病毒學",
-      "topic": "持續性感染",
       "question": "關於病毒持續性感染(Persistent infection)的致病機制,下列敘述何者錯誤?",
       "options": {
         "A": "某些持續性感染病毒會透過調控或抑制宿主的細胞凋亡(Apoptosis)機制,使受感染細胞得以長期存活並持續製造病毒。",
@@ -1457,7 +1360,6 @@
     {
       "id": "VIR-W02-41",
       "subject": "病毒學",
-      "topic": "包涵體位置",
       "question": "關於病毒感染細胞所產生的包涵體位置與特徵,下列配對何者錯誤?",
       "options": {
         "A": "狂犬病毒(Rabies virus)-細胞質內基小體(Negri bodies),由核衣殼聚集而成",
@@ -1472,7 +1374,6 @@
     {
       "id": "VIR-W02-42",
       "subject": "病毒學",
-      "topic": "DNA病毒複製",
       "question": "下列何種DNA病毒的複製和組合均在細胞質內進行?",
       "options": {
         "A": "Circovirus",
@@ -1487,7 +1388,6 @@
     {
       "id": "VIR-W02-43",
       "subject": "病毒學",
-      "topic": "細胞質內包涵體",
       "question": "下列何者感染上皮細胞時,會產生大的嗜伊紅性細胞質內包涵體?",
       "options": {
         "A": "herpesviruses",
@@ -1502,7 +1402,6 @@
   {
     "id": "VIR-W03-01",
     "subject": "病毒學",
-    "topic": "實驗室生物安全與細胞株",
     "question": "下列關於生物安全等級(Biosafety Level, BSL)與實驗室操作規範的敘述,何者最不恰當?",
     "options": {
       "A": "BSL-1屬於基礎教學及研究類型,採用開放式工作檯設備即可",
@@ -1517,7 +1416,6 @@
   {
     "id": "VIR-W03-02",
     "subject": "病毒學",
-    "topic": "病毒分離與細胞株",
     "question": "若要進行病毒分離(Virus Isolation),根據講義中常見細胞株的分類與選擇,下列何種細胞屬於「異倍體/永久續代細胞(Continuous cell lines)」?",
     "options": {
       "A": "PMK(猴原型腎細胞)",
@@ -1532,7 +1430,6 @@
   {
     "id": "VIR-W03-03",
     "subject": "病毒學",
-    "topic": "病毒診斷技術",
     "question": "下列何種診斷方法屬於「病原非依賴性(Agent-independent)」檢測,最適合用來發現未知或無法培養(Noncultivable)的新病毒?",
     "options": {
       "A": "聚合酶連鎖反應(PCR)",
@@ -1547,7 +1444,6 @@
   {
     "id": "VIR-W03-04",
     "subject": "病毒學",
-    "topic": "細胞病理學",
     "question": "關於細胞凋亡(apoptosis),何者錯誤?",
     "options": {
       "A": "通常無界線分明組織病變及無明顯發炎反應",
@@ -1562,7 +1458,6 @@
   {
     "id": "VIR-W03-05",
     "subject": "病毒學",
-    "topic": "檢體採集與保存",
     "question": "若懷疑牛群感染牛傳染性鼻氣管炎病毒(IBRV,屬於Herpesviridae),採集鼻腔拭子(Nasal swab)進行病毒分離時,下列何種處理方式最不適當?",
     "options": {
       "A": "將拭子浸泡於含有抗生素與抗黴菌劑的病毒運輸培養基(VTM)中",
@@ -1577,7 +1472,6 @@
   {
     "id": "VIR-W03-06",
     "subject": "病毒學",
-    "topic": "細胞培養品質控制",
     "question": "在進行單層培養細胞的評估時,若發現培養液呈現清明黃色,其最可能的原因及建議的改正措施為何?",
     "options": {
       "A": "蓋子太鬆所致;改正措施為蓋緊蓋子並通知經銷商",
@@ -1592,7 +1486,6 @@
   {
     "id": "VIR-W03-07",
     "subject": "病毒學",
-    "topic": "抗病毒藥物",
     "question": "在某些情況下,可以使用藥劑預防病毒感染。下列何種藥劑,可以在A型流行感冒病毒大流行時,用做預防使用?",
     "options": {
       "A": "Amantadine",
@@ -1607,7 +1500,6 @@
   {
     "id": "VIR-W03-08",
     "subject": "病毒學",
-    "topic": "先天免疫與干擾素",
     "question": "下列關於 Alpha/Beta 型干擾素(IFN-α/β) 抗病毒作用機制的敘述,何者正確?",
     "options": {
       "A": "干擾素能直接破壞病毒的外殼包膜(Envelope),使病毒失去感染力",
@@ -1622,7 +1514,6 @@
   {
     "id": "VIR-W03-09",
     "subject": "病毒學",
-    "topic": "致癌性病毒",
     "question": "以下何者屬於致癌性DNA病毒(oncogenic DNA viruses)?",
     "options": {
       "A": "乳突病毒(papillomavirus)",
@@ -1637,7 +1528,6 @@
   {
     "id": "VIR-W03-10",
     "subject": "病毒學",
-    "topic": "C型肝炎診斷",
     "question": "下列何種檢測急性C型肝炎病毒感染的方法最不適當?",
     "options": {
       "A": "C型肝炎病毒抗原檢驗(HCV antigen test)",
@@ -1652,7 +1542,6 @@
   {
     "id": "VIR-W03-11",
     "subject": "病毒學",
-    "topic": "病毒檢測策略",
     "question": "如果目的是進行 virus detection (病毒偵測),一般而言最理想的採樣時間是:",
     "options": {
       "A": "Clinical signs出現後儘可能早採樣",
@@ -1667,7 +1556,6 @@
   {
     "id": "VIR-W03-12",
     "subject": "病毒學",
-    "topic": "病毒檢測策略",
     "question": "下列哪種情況特別適合使用核酸偵測(nucleic acid detection) ?",
     "options": {
       "A": "病毒因長時間保存而已經失活(inactivated)",
@@ -1682,7 +1570,6 @@
   {
     "id": "VIR-W03-13",
     "subject": "病毒學",
-    "topic": "抗原快篩",
     "question": "臨床上利用膠體金免疫層析試驗(Rapid antigen test) 檢測犬小病毒(Canine parvovirus, CPV)糞便抗原時,下列相關敘述何者正確?",
     "options": {
       "A": "此法之主要原理是偵測血液中的循環性中和抗體(IgG),因此在感染後第1天即可呈現強陽性。",
@@ -1697,7 +1584,6 @@
   {
     "id": "VIR-W03-14",
     "subject": "病毒學",
-    "topic": "血清學試驗",
     "question": "關於新城病病毒(Newcastle disease virus, NDV)或禽流感病毒(AIV)之血球凝集抑制試驗(Hemagglutination inhibition, HI test)之原理與操作,下列敘述何者正確?",
     "options": {
       "A": "HI試驗主要用於偵測待測血清中是否含有針對病毒表面神經氨酸酶(Neuraminidase, NA)之中和性抗體。",
@@ -1712,7 +1598,6 @@
   {
     "id": "VIR-W03-15",
     "subject": "病毒學",
-    "topic": "分子生物學診斷",
     "question": "在利用實時定量聚合酶鏈鎖反應(RT-qPCR)進行病毒檢測時,我們常會提到「Ct值(Cycle Threshold)」。關於Ct值的敘述,下列何者正確?",
     "options": {
       "A": "Ct值越高,代表檢體中的病毒核酸量(Viral Load)越多",
@@ -1727,7 +1612,6 @@
   {
     "id": "VIR-W03-16",
     "subject": "病毒學",
-    "topic": "血清學診斷",
     "question": "在病毒感染的血清學診斷(Serological diagnosis)中,評估病人是處於初次急性感染還是既往感染,檢測特定免疫球蛋白是非常關鍵的。請問下列哪一項血清學結果最典型地代表「初次急性病毒感染(Primary acute viral infection)」?",
     "options": {
       "A": "Anti-viral IgM 陰性 (Negative) ,Anti-viral IgG 陽性(Positive)",
@@ -1742,7 +1626,6 @@
   {
     "id": "VIR-W03-17",
     "subject": "病毒學",
-    "topic": "病毒擴散機制",
     "question": "多系統性擴散(Multisystemic Spread)的優勢為:",
     "options": {
       "A": "病毒可到達更多可參與排毒的體表部位",
@@ -1757,7 +1640,6 @@
   {
     "id": "VIR-W03-18",
     "subject": "病毒學",
-    "topic": "犬瘟熱病毒",
     "question": "關於犬瘟熱病毒(Canine Distemper Virus),下列哪些敘述是對的?",
     "options": {
       "A": "犬瘟熱病毒雖然傳染性極強,但無法跨物種傳播,只會感染犬類。",
@@ -1772,7 +1654,6 @@
   {
     "id": "VIR-W03-19",
     "subject": "病毒學",
-    "topic": "檢體採集",
     "question": "採集病毒檢測樣本的最佳時間是",
     "options": {
       "A": "接觸病毒後立即",
@@ -1787,7 +1668,6 @@
   {
     "id": "VIR-W03-20",
     "subject": "病毒學",
-    "topic": "呼吸道病毒檢體",
     "question": "牛隻呼吸道病毒感染(respiratory virus infections),最重要的診斷檢體包括:",
     "options": {
       "A": "活體動物的鼻腔或咽喉拭子(nasal or throat swabs)",
@@ -1802,7 +1682,6 @@
   {
     "id": "VIR-W03-21",
     "subject": "病毒學",
-    "topic": "ELISA原理",
     "question": "植物病毒檢測中常用 enzyme-linked immunosorbent assay (ELISA) 技術,其主要依賴什麼原理?",
     "options": {
       "A": "核酸變性",
@@ -1817,7 +1696,6 @@
   {
     "id": "VIR-W03-22",
     "subject": "病毒學",
-    "topic": "ELISA應用",
     "question": "有關ELISA(enzyme-linked immunosorbant assay)之敘述,下列何者正確?",
     "options": {
       "A": "其原理是利用抗原引發免疫反應,產生拮抗體外抗原的疫苗",
@@ -1832,7 +1710,6 @@
   {
     "id": "VIR-W03-23",
     "subject": "病毒學",
-    "topic": "實驗診斷方法",
     "question": "下列關於病毒感染實驗室診斷方法的敘述,何者正確?",
     "options": {
       "A": "間接螢光抗體試驗(IFA)是用螢光標記二級抗體來偵測結合在抗原上的專一性抗體",
@@ -1847,7 +1724,6 @@
   {
     "id": "VIR-W03-24",
     "subject": "病毒學",
-    "topic": "競爭型ELISA",
     "question": "下列何者為競爭型ELISA在血清免疫診斷技術的主要原理?",
     "options": {
       "A": "結合受體產生致敏反應(sensitization)",
@@ -1862,7 +1738,6 @@
   {
     "id": "VIR-W03-25",
     "subject": "病毒學",
-    "topic": "免疫分析分類",
     "question": "ELISA 屬於下列何種免疫分析法?",
     "options": {
       "A": "均質性免疫分析(homogeneous immunoassay)",
@@ -1877,7 +1752,6 @@
   {
     "id": "VIR-W03-26",
     "subject": "病毒學",
-    "topic": "胚胎感染",
     "question": "豬胎兒時期遭受何種病原感染會導致小腦發育不全?",
     "options": {
       "A": "豬瘟病毒",
@@ -1892,7 +1766,6 @@
   {
     "id": "VIR-W03-27",
     "subject": "病毒學",
-    "topic": "抗病毒藥物",
     "question": "下列哪一種抗流感藥物同時對A型和B型流感病毒有效?",
     "options": {
       "A": "Amantadine",
@@ -1907,7 +1780,6 @@
   {
     "id": "VIR-W03-28",
     "subject": "病毒學",
-    "topic": "禽病診斷",
     "question": "診斷下列何種疾病可使用免疫螢光染色,檢測雞毛囊上皮細胞中的抗原?",
     "options": {
       "A": "馬立克病",
@@ -1922,7 +1794,6 @@
   {
     "id": "VIR-W03-29",
     "subject": "病毒學",
-    "topic": "血球凝集抑制試驗",
     "question": "下列何種病毒必須經過適當的酵素處理後方可作為血球凝集抑制性試驗的抗原?",
     "options": {
       "A": "傳染性支氣管炎病毒",
@@ -1937,7 +1808,6 @@
   {
     "id": "VIR-W03-30",
     "subject": "病毒學",
-    "topic": "人畜共通傳染病",
     "question": "下列何種動物是日本腦炎病毒之增幅宿主?",
     "options": {
       "A": "馬",
@@ -1952,7 +1822,6 @@
   {
     "id": "VIR-W03-31",
     "subject": "病毒學",
-    "topic": "傳染途徑",
     "question": "下列何種人畜共通傳染病病毒的主要傳染途徑是藉由糞口傳染?",
     "options": {
       "A": "輪狀病毒",
@@ -1967,7 +1836,6 @@
   {
     "id": "VIR-W03-32",
     "subject": "病毒學",
-    "topic": "B型肝炎血清學",
     "question": "下列何種檢驗結果可以用來區分「未曾感染過但曾經接種B型肝炎病毒疫苗」與「曾經感染B型肝炎病毒但已經康復」的個體?",
     "options": {
       "A": "Anti-HBc抗體陽性",
@@ -1982,7 +1850,6 @@
   {
     "id": "VIR-W03-33",
     "subject": "病毒學",
-    "topic": "A型肝炎血清學",
     "question": "A型肝炎病毒藉由糞口傳染途徑,造成病人急性肝炎症狀。檢測病人血液中專一性對抗A型肝炎病毒的抗體,當發現下列何種類型的抗體濃度最高,最可能顯示該病人剛遭受該病毒感染?",
     "options": {
       "A": "IgA",
@@ -1997,7 +1864,6 @@
   {
     "id": "VIR-W03-34",
     "subject": "病毒學",
-    "topic": "免疫球蛋白特性",
     "question": "有關抗體之敘述,下列何者最適當?",
     "options": {
       "A": "IgA可穿過胎盤,讓胎兒獲得被動免疫力",
@@ -2012,7 +1878,6 @@
   {
     "id": "VIR-W03-35",
     "subject": "病毒學",
-    "topic": "新興病毒鑑定",
     "question": "新型冠狀病毒(SARS-CoV2)最初是如何被鑑定出是一個與蝙蝠冠狀病毒相近的病毒?",
     "options": {
       "A": "電子顯微鏡的影像證明",
@@ -2027,7 +1892,6 @@
   {
     "id": "VIR-W03-36",
     "subject": "病毒學",
-    "topic": "PCR原理",
     "question": "聚合酶連鎖反應(polymerase chain reaction)可用來偵測微量的DNA,反應中通常不需要加:",
     "options": {
       "A": "DNA聚合酶(DNA polymerase)",
@@ -2042,7 +1906,6 @@
   {
     "id": "VIR-W03-37",
     "subject": "病毒學",
-    "topic": "PCR成分",
     "question": "聚合酶鏈鎖反應(polymerase chain reaction, PCR)不需要下列何種物質?",
     "options": {
       "A": "DNA雙股模板(template)",
@@ -2057,7 +1920,6 @@
   {
     "id": "VIR-W03-38",
     "subject": "病毒學",
-    "topic": "PCR成分",
     "question": "在聚合酶鏈鎖反應(polymerase chain reaction, PCR)中,不需加入下列何種成分?",
     "options": {
       "A": "核苷三磷酸(NTP)包括腺苷三磷酸(ATP)、鳥苷三磷酸(GTP)、胞苷三磷酸(CTP)以及胸腺苷三磷酸(TTP)",
@@ -2072,7 +1934,6 @@
   {
     "id": "VIR-W03-39",
     "subject": "病毒學",
-    "topic": "檢驗效能",
     "question": "某新興傳染病爆發之後,對疑似病人採檢後進行兩種不同方法的檢驗,並將其中任一次檢驗呈現陽性反應定義為陽性感染者,主要目的為:",
     "options": {
       "A": "可增加檢驗敏感度",
@@ -2087,7 +1948,6 @@
   {
     "id": "VIR-W03-40",
     "subject": "病毒學",
-    "topic": "流行病學指標",
     "question": "某流感快篩的敏感度為60%,特異度為70%,對發燒病人篩檢的陰性預測值為80%,此流感快篩之陰性反應的人中估計得到流感的百分比為多少?",
     "options": {
       "A": "40%",
@@ -2102,7 +1962,6 @@
   {
     "id": "VIR-W03-41",
     "subject": "病毒學",
-    "topic": "病毒血症與排出",
     "question": "一隻犬感染病毒後,病毒由呼吸道黏膜進入體內。若病毒僅在呼吸道局部複製與擴散,主要經由呼吸道分泌物排出;若病毒進一步進入血液形成 viremia(病毒血症),則可能擴散至其他器官與黏膜。下列何者最正確?",
     "options": {
       "A": "只要病毒由呼吸道進入,就一定會形成 viremia",
@@ -2117,7 +1976,6 @@
   {
     "id": "VIR-W03-42",
     "subject": "病毒學",
-    "topic": "病毒血症分期",
     "question": "關於第一次病毒血症(primary viremia)與第二次病毒血症(secondary viremia),下列何者正確?",
     "options": {
       "A": "第一次病毒血症通常有明顯的臨床症狀",
@@ -2132,7 +1990,6 @@
   {
     "id": "VIR-W03-43",
     "subject": "病毒學",
-    "topic": "血管內皮屏障",
     "question": "關於病毒跨越血管內皮屏障(Vascular endothelial barrier)及後續致病機制的敘述,下列何者最不適當?",
     "options": {
       "A": "血管內皮屏障在腦部與眼睛區域最為緊密,而在血流緩慢且血管壁薄的小靜脈(Venules)與微血管最容易被病毒突破",
@@ -2147,7 +2004,6 @@
   {
     "id": "VIR-W03-44",
     "subject": "病毒學",
-    "topic": "病毒排出途徑",
     "question": "下列關於病毒排出(Virus Shedding)途徑的敘述,何者正確?",
     "options": {
       "A": "輪狀病毒(rotaviruses)主要經由呼吸道排出,並透過經口感染造成傳播。",
@@ -2162,7 +2018,6 @@
   {
     "id": "VIR-W03-45",
     "subject": "病毒學",
-    "topic": "血清學診斷",
     "question": "若要判斷動物近期是否曾發生病毒感染,以下哪一項血清學證據最具有意義?",
     "options": {
       "A": "單次血清檢測呈現陰性",
@@ -2177,7 +2032,6 @@
   {
     "id": "VIR-W03-46",
     "subject": "病毒學",
-    "topic": "傳染病傳播",
     "question": "仔羊發生山羊關節炎腦炎之傳播來源,主要為下列何者?",
     "options": {
       "A": "食入含病原的乳汁",
@@ -2192,7 +2046,6 @@
   {
     "id": "VIR-W03-47",
     "subject": "病毒學",
-    "topic": "病理包涵體",
     "question": "關於病毒感染引起的細胞內包涵體(Intracellular inclusion bodies)與其病理意義的敘述,下列何者正確?",
     "options": {
       "A": "狂犬病病毒(Rabies virus) 感染神經細胞時,常在細胞質內形成嗜酸性且具病理診斷價值的內基氏小體(Negri bodies)。",
@@ -2207,7 +2060,6 @@
   {
     "id": "VIR-W03-48",
     "subject": "病毒學",
-    "topic": "抗體依賴性促進作用",
     "question": "貓下列何項疾病有抗體依賴性促進作用(antibody dependent enhancement),故不建議以施打疫苗來預防?",
     "options": {
       "A": "貓白血病",
@@ -2222,7 +2074,6 @@
   {
     "id": "VIR-W03-49",
     "subject": "病毒學",
-    "topic": "免疫組織化學",
     "question": "關於病毒抗原檢測與免疫組織化學(Immunohistochemistry, IHC)特性的敘述,下列何者正確?",
     "options": {
       "A": "免疫螢光抗體法(IF)常用於福馬林固定(formalin-fixed)的組織檢體,因為固定後完全不會影響螢光抗體的結合",
@@ -2237,7 +2088,6 @@
   {
     "id": "VIR-W03-50",
     "subject": "病毒學",
-    "topic": "病理學特徵",
     "question": "獸醫進行病理檢查時,若在受感染神經細胞內發現「內基氏體(Negri body)」 該包涵體通常位於細胞的何處?呈現何種染色特性?",
     "options": {
       "A": "細胞核內;嗜酸性",
@@ -2253,7 +2103,6 @@
   {
     "id": "VIR-W04-01",
     "subject": "病毒學",
-    "topic": "小病毒科特性",
     "question": "下列關於犬小病毒(Canine parvovirus, CPV)之敘述，何者錯誤？",
     "options": {
       "A": "為單股DNA病毒，且具有脂質外膜(enveloped)",
@@ -2267,7 +2116,6 @@
   {
     "id": "VIR-W04-02",
     "subject": "病毒學",
-    "topic": "小病毒感染病變",
     "question": "貓泛白血球減少症病毒(Feline panleukopenia virus, FPV)若感染懷孕母貓或新生幼貓，最常引起下列哪一種特異性神經系統病變？",
     "options": {
       "A": "水腦症 (Hydrocephalus)",
@@ -2281,7 +2129,6 @@
   {
     "id": "VIR-W04-03",
     "subject": "病毒學",
-    "topic": "疱疹病毒科特性",
     "question": "關於貓皰疹病毒第一型(Feline herpesvirus 1, FeHV-1)感染的臨床特徵，下列何者正確？",
     "options": {
       "A": "僅會造成皮膚結節與潰瘍，不會引起呼吸道症狀",
@@ -2295,7 +2142,6 @@
   {
     "id": "VIR-W04-04",
     "subject": "病毒學",
-    "topic": "反轉錄病毒比較",
     "question": "下列關於貓白血病病毒(Feline leukemia virus, FeLV)與貓免疫缺陷病毒(Feline immunodeficiency virus, FIV)的比較，何者正確？",
     "options": {
       "A": "FeLV與FIV皆屬於反轉錄病毒科(Retroviridae)，但FeLV具有較明顯的腫瘤引發性與外膜蛋白基因多樣性",
@@ -2309,7 +2155,6 @@
   {
     "id": "VIR-W04-05",
     "subject": "病毒學",
-    "topic": "反轉錄酶功能",
     "question": "反轉錄病毒在進入宿主細胞後，必須依賴病毒自身攜帶的哪一種關鍵酵素，才能將單股RNA基因體轉化為雙股DNA？",
     "options": {
       "A": "RNA聚合酶 (RNA polymerase)",
@@ -2323,7 +2168,6 @@
   {
     "id": "VIR-W04-06",
     "subject": "病毒學",
-    "topic": "小病毒科",
     "question": "關於小病毒科(Parvoviridae)病毒的敘述，下列何者正確？",
     "options": {
       "A": "具有脂質外套膜(enveloped)",
@@ -2337,7 +2181,6 @@
   {
     "id": "VIR-W04-07",
     "subject": "病毒學",
-    "topic": "犬小病毒病變",
     "question": "犬小病毒感染時，常見的腸道病變與組織學特徵為：",
     "options": {
       "A": "腸絨毛極度延長、增生",
@@ -2351,7 +2194,6 @@
   {
     "id": "VIR-W04-08",
     "subject": "病毒學",
-    "topic": "豬細小病毒",
     "question": "豬細小病毒(Porcine parvovirus, PPV)感染成年母豬後，最主要的臨床表現為：",
     "options": {
       "A": "嚴重呼吸困難與肺炎",
@@ -2365,7 +2207,6 @@
   {
     "id": "VIR-W04-09",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "下列關於疱疹病毒科(Herpesviridae)共同特徵的敘述，何者正確？",
     "options": {
       "A": "基因體為單股RNA",
@@ -2379,7 +2220,6 @@
   {
     "id": "VIR-W04-10",
     "subject": "病毒學",
-    "topic": "馬疱疹病毒",
     "question": "馬疱疹病毒第一型(Equine herpesvirus 1, EHV-1)除了引起呼吸道症狀與流產外，還常引起下列哪一種嚴重的神經系統疾病？",
     "options": {
       "A": "狂犬病樣麻痺",
@@ -2393,7 +2233,6 @@
   {
     "id": "VIR-W04-11",
     "subject": "病毒學",
-    "topic": "偽狂犬病病毒",
     "question": "偽狂犬病病毒(Pseudorabies virus, PRV)感染非自然宿主（如牛、羊、犬、貓）時，最典型的特徵性臨床症狀為何？",
     "options": {
       "A": "全身性嚴重水疱與跛行",
@@ -2407,7 +2246,6 @@
   {
     "id": "VIR-W04-12",
     "subject": "病毒學",
-    "topic": "傳染性牛鼻氣管炎",
     "question": "牛傳染性鼻氣管炎(Infectious bovine rhinotracheitis, IBR)的致病原為：",
     "options": {
       "A": "牛疱疹病毒第一型 (Bovine herpesvirus 1, BoHV-1)",
@@ -2421,7 +2259,6 @@
   {
     "id": "VIR-W04-13",
     "subject": "病毒學",
-    "topic": "馬立克病病毒",
     "question": "下列關於馬立克病病毒(Marek's disease virus, MDV)的敘述，何者正確？",
     "options": {
       "A": "屬於阿法疱疹病毒亞科，主要引起雞隻周邊神經腫大與淋巴瘤",
@@ -2435,7 +2272,6 @@
   {
     "id": "VIR-W04-14",
     "subject": "病毒學",
-    "topic": "反轉錄病毒結構",
     "question": "反轉錄病毒科(Retroviridae)病毒顆粒的結構與基因體特徵，下列何者正確？",
     "options": {
       "A": "具有單股正鏈RNA兩份拷貝 (diploid genome)",
@@ -2449,7 +2285,6 @@
   {
     "id": "VIR-W04-15",
     "subject": "病毒學",
-    "topic": "牛白血病病毒",
     "question": "牛白血病病毒(Bovine leukemia virus, BLV)主要感染下列哪一種細胞？",
     "options": {
       "A": "紅血球",
@@ -2463,7 +2298,6 @@
   {
     "id": "VIR-W04-16",
     "subject": "病毒學",
-    "topic": "反轉錄病毒整合",
     "question": "反轉錄病毒的反轉錄DNA經整合酶(Integrase)嵌入宿主染色體後，稱為：",
     "options": {
       "A": "質體 (Plasmid)",
@@ -2477,7 +2311,6 @@
   {
     "id": "VIR-W04-17",
     "subject": "病毒學",
-    "topic": "反轉錄病毒酵素",
     "question": "反轉錄病毒顆粒內除了反轉錄酶與整合酶外，還含有哪一種重要酵素負責切割多蛋白前驅物使病毒成熟？",
     "options": {
       "A": "DNA解旋酶",
@@ -2491,7 +2324,6 @@
   {
     "id": "VIR-W04-18",
     "subject": "病毒學",
-    "topic": "貓愛滋病",
     "question": "貓免疫缺陷病毒(FIV)主要攻擊與破壞宿主的哪一種細胞，進而導致免疫功能低下？",
     "options": {
       "A": "CD4+ 與 CD8+ T淋巴球",
@@ -2505,7 +2337,6 @@
   {
     "id": "VIR-W04-19",
     "subject": "病毒學",
-    "topic": "小病毒特性",
     "question": "下列關於小病毒科病毒對物理及化學因子抵抗力的敘述，何者正確？",
     "options": {
       "A": "對熱、酸鹼值及多數常用消毒劑（如酒精、季銨鹽）抵抗力極強",
@@ -2519,7 +2350,6 @@
   {
     "id": "VIR-W04-20",
     "subject": "病毒學",
-    "topic": "水禽小病毒",
     "question": "鵝小病毒症(Goose parvovirus infection)常引發雛鵝出現生長遲緩及典型的哪一種外觀特徵？",
     "options": {
       "A": "短喙與矮小症候群 (Short beak and dwarfism syndrome, SBDS)",
@@ -2533,7 +2363,6 @@
   {
     "id": "VIR-W04-21",
     "subject": "病毒學",
-    "topic": "疱疹病毒潛伏",
     "question": "疱疹病毒在宿主體內建立潛伏感染(Latent infection)時，其病毒基因組通常以何種形式存在於神經節細胞中？",
     "options": {
       "A": "環狀的附加體 (Episome)",
@@ -2547,7 +2376,6 @@
   {
     "id": "VIR-W04-22",
     "subject": "病毒學",
-    "topic": "傳染性喉頭氣管炎",
     "question": "雞傳染性喉頭氣管炎(Infectious laryngotracheitis, ILT)是由下列何種病原引起？",
     "options": {
       "A": "雞疱疹病毒第一型 (Gallid herpesvirus 1)",
@@ -2561,7 +2389,6 @@
   {
     "id": "VIR-W04-23",
     "subject": "病毒學",
-    "topic": "鴨病毒性肝炎",
     "question": "鴨病毒性肝炎(Duck virus hepatitis, DVH)主要侵害的目標器官為：",
     "options": {
       "A": "肝臟，並引發急性壞死與出血",
@@ -2575,7 +2402,6 @@
   {
     "id": "VIR-W04-24",
     "subject": "病毒學",
-    "topic": "反轉錄病毒傳播",
     "question": "關於反轉錄病毒的傳播途徑，下列敘述何者錯誤？",
     "options": {
       "A": "多數反轉錄病毒可經由水平傳播（如體液、血液接觸、交配、打鬥）傳遞",
@@ -2589,7 +2415,6 @@
   {
     "id": "VIR-W04-25",
     "subject": "病毒學",
-    "topic": "小病毒複製",
     "question": "小病毒在宿主細胞內進行複製與組裝的胞器或位置主要在：",
     "options": {
       "A": "細胞核 (Nucleus)",
@@ -2603,7 +2428,6 @@
   {
     "id": "VIR-W04-26",
     "subject": "病毒學",
-    "topic": "犬小病毒血球凝集",
     "question": "犬小病毒(CPV)在實驗室中常利用其哪一項特性進行血球凝集試驗(HA test)？",
     "options": {
       "A": "凝集特定動物（如豬或恆河猴）紅血球的能力",
@@ -2617,7 +2441,6 @@
   {
     "id": "VIR-W04-27",
     "subject": "病毒學",
-    "topic": "鴨瘟病毒",
     "question": "鴨瘟(Duck plague / Duck viral enteritis)的致病原屬於下列何者？",
     "options": {
       "A": "鴨疱疹病毒第一型 (Anatid herpesvirus 1)",
@@ -2631,7 +2454,6 @@
   {
     "id": "VIR-W04-28",
     "subject": "病毒學",
-    "topic": "反轉錄病毒致癌",
     "question": "某些反轉錄病毒（如勞斯肉瘤病毒 Rous sarcoma virus）能直接攜帶致癌基因，這類基因通常被稱為：",
     "options": {
       "A": "原癌基因 (Proto-oncogene)",
@@ -2645,7 +2467,6 @@
   {
     "id": "VIR-W04-29",
     "subject": "病毒學",
-    "topic": "貓白血病病毒檢測",
     "question": "臨床上篩檢貓白血病病毒(FeLV)感染時，最常利用ELISA或快速套組偵測血液中的哪一種病毒成分？",
     "options": {
       "A": "核心蛋白 p27 (Capsid protein p27)",
@@ -2659,7 +2480,6 @@
   {
     "id": "VIR-W04-30",
     "subject": "病毒學",
-    "topic": "牛結節疹與假性塊狀皮膚病",
     "question": "牛疱疹病毒第二型(BoHV-2)引起的疾病常被稱為：",
     "options": {
       "A": "假性塊狀皮膚病 (Pseudo-lumpy skin disease)",
@@ -2673,7 +2493,6 @@
   {
     "id": "VIR-W04-31",
     "subject": "病毒學",
-    "topic": "犬疱疹病毒",
     "question": "新生幼犬感染犬疱疹病毒第一型(CHV-1)容易引發全身性嚴重出血與壞死，其主要關鍵原因為何？",
     "options": {
       "A": "幼犬體溫調節中樞發育未全、體溫較低，剛好符合病毒適應的低溫複製環境",
@@ -2687,7 +2506,6 @@
   {
     "id": "VIR-W04-32",
     "subject": "病毒學",
-    "topic": "反轉錄病毒亞科",
     "question": "反轉錄病毒科(Retroviridae)根據生物學特性與致病性可分為多個屬，人類免疫缺陷病毒(HIV)屬於下列哪一個屬？",
     "options": {
       "A": "慢病毒屬 (Lentivirus)",
@@ -2701,7 +2519,6 @@
   {
     "id": "VIR-W04-33",
     "subject": "病毒學",
-    "topic": "小病毒抗原變異",
     "question": "犬小病毒(CPV)自1978年被發現以來，陸續演化出多種抗原亞型（如CPV-2a, 2b, 2c）。這些變異主要發生在病毒的哪一個部位？",
     "options": {
       "A": "衣殼蛋白 (Capsid protein / VP2)",
@@ -2715,7 +2532,6 @@
   {
     "id": "VIR-W04-34",
     "subject": "病毒學",
-    "topic": "禽類疱疹病毒",
     "question": "下列哪一種禽類疾病也是由疱疹病毒引起，並以呼吸道產生帶血黏液、喉頭黏膜潰瘍為主要特徵？",
     "options": {
       "A": "傳染性喉頭氣管炎 (ILT)",
@@ -2729,7 +2545,6 @@
   {
     "id": "VIR-W04-35",
     "subject": "病毒學",
-    "topic": "反轉錄病毒基因組",
     "question": "反轉錄病毒的基因組結構中，負責編碼內部結構蛋白（如Matrix, Capsid, Nucleocapsid）的基因通常是：",
     "options": {
       "A": "gag",
@@ -2743,7 +2558,6 @@
   {
     "id": "VIR-W04-36",
     "subject": "病毒學",
-    "topic": "反轉錄病毒env基因",
     "question": "反轉錄病毒基因組中，負責編碼病毒表面外膜醣蛋白（Surface glycoprotein, SU）與跨膜蛋白（Transmembrane protein, TM）的基因是：",
     "options": {
       "A": "env",
@@ -2757,7 +2571,6 @@
   {
     "id": "VIR-W04-37",
     "subject": "病毒學",
-    "topic": "貓冠狀病毒與小病毒差異",
     "question": "下列關於貓泛白血球減少症病毒(FPV)與貓冠狀病毒(FCoV)之比較，何者正確？",
     "options": {
       "A": "FPV為無套膜單股DNA病毒；FCoV為具套膜單股正鏈RNA病毒",
@@ -2771,7 +2584,6 @@
   {
     "id": "VIR-W04-38",
     "subject": "病毒學",
-    "topic": "反轉錄病毒感染後果",
     "question": "當反轉錄病毒將病毒DNA整合至宿主細胞基因組中成為前病毒後，對宿主細胞可能產生的長期影響不包含下列何者？",
     "options": {
       "A": "持續製造子代病毒並引起慢性感染",
@@ -2785,7 +2597,6 @@
   {
     "id": "VIR-W05-01",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "對於呼吸道病毒感染(如呼吸道融合病毒RSV),宿主體內的哪一種免疫球蛋白滴定值(titer)與感染的嚴重性有密切關係?",
     "options": {
       "A": "IgA",
@@ -2800,7 +2611,6 @@
   {
     "id": "VIR-W05-02",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "在細胞媒介免疫(CMI)中,主要負責辨識並殺死病毒感染細胞的是具有下列哪一種標記的細胞?",
     "options": {
       "A": "CD4",
@@ -2815,7 +2625,6 @@
   {
     "id": "VIR-W05-03",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "下列有關活毒疫苗(Live vaccine)與死毒疫苗(Killed vaccine)特性的比較,何者錯誤?",
     "options": {
       "A": "活毒疫苗產生的免疫有效期間較長",
@@ -2830,7 +2639,6 @@
   {
     "id": "VIR-W05-04",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "關於病毒疫苗之敘述,下列何者正確?",
     "options": {
       "A": "活毒疫苗通常只能產生IgG抗體",
@@ -2845,7 +2653,6 @@
   {
     "id": "VIR-W05-05",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "針對細菌性感染與病毒性感染時,主要負責吞噬並殺菌的白血球種類有何不同?",
     "options": {
       "A": "病毒感染時主要是多核狀白血球",
@@ -2860,7 +2667,6 @@
   {
     "id": "VIR-W05-06",
     "subject": "病毒學",
-    "topic": "抗病毒藥物",
     "question": "關於AZT (Zidovudine,齊多夫定)的作用機轉,下列何者正確?",
     "options": {
       "A": "抑制 HIV病毒的蛋白酶,阻止病毒蛋白質成熟。",
@@ -2875,7 +2681,6 @@
   {
     "id": "VIR-W05-07",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "根據講義內容,在非特異性防禦中,宿主在受到病毒感染時細胞所產生的「干擾素」,其英文簡稱是什麼?",
     "options": {
       "A": "DNA",
@@ -2890,7 +2695,6 @@
   {
     "id": "VIR-W05-08",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "出生前由母親得到的母體抗體(maternal antibodies),可保護嬰兒在短時間內避免得到各種感染症。請問多久後這些抗體便會逐漸消失?",
     "options": {
       "A": "三個月",
@@ -2905,7 +2709,6 @@
   {
     "id": "VIR-W05-09",
     "subject": "病毒學",
-    "topic": "病毒傳播",
     "question": "下列何者是日本腦炎病毒傳播循環中最主要的宿主動物?",
     "options": {
       "A": "豬",
@@ -2920,7 +2723,6 @@
   {
     "id": "VIR-W05-10",
     "subject": "病毒學",
-    "topic": "抗病毒藥物",
     "question": "zanamivir是經口吸入的抗流感藥物,其標準治療療程是幾天?",
     "options": {
       "A": "2天",
@@ -2935,7 +2737,6 @@
   {
     "id": "VIR-W05-11",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "關於獸醫疫苗學中「活毒減毒疫苗」 (Modified Live Vaccine, MLV)與「不活化疫苗」 (Inactivated Vaccine) 之特性比較,下列敘述何者正確?",
     "options": {
       "A": "不活化疫苗不需要添加佐劑(Adjuvant)即可在體內誘導強大的細胞性免疫與CD8+毒殺T細胞反應。",
@@ -2950,7 +2751,6 @@
   {
     "id": "VIR-W05-12",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "關於「區分感染與已注射疫苗動物」 (DIVA)標記疫苗之原理,以偽狂犬病病毒(PRV)缺失疫苗為例,下列敘述何者正確?",
     "options": {
       "A": "利用刪除病毒非結構或非核心外膜蛋白(如gE基因缺失),使施打疫苗動物不會產生對應抗體(Anti-gE negative),而野毒感染動物則會呈現gE抗體陽性,藉此血清學區分。",
@@ -2965,7 +2765,6 @@
   {
     "id": "VIR-W05-13",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "在適應性免疫(adaptive immunity)中,B淋巴細胞(B lymphocytes)負責 ?",
     "options": {
       "A": "發炎(Inflammation)",
@@ -2980,7 +2779,6 @@
   {
     "id": "VIR-W05-14",
     "subject": "病毒學",
-    "topic": "病毒感染",
     "question": "狂犬病病毒不易感染下列哪一種動物?",
     "options": {
       "A": "鼠",
@@ -2995,7 +2793,6 @@
   {
     "id": "VIR-W05-15",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "關於人體適應性免疫系統中,細胞媒介性免疫與體液性免疫的比較,下列敘述何者正確?",
     "options": {
       "A": "體液性免疫主要由細胞毒性T細胞介導,專門負責清除體內遭病毒感染的自體細胞",
@@ -3010,7 +2807,6 @@
   {
     "id": "VIR-W05-16",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "下列針對疱疹B病毒的敘述,何者正確?①主要感染靈長動物,於猴科動物之間傳染高②經常造成亞洲獼猴嚴重腦炎③此病毒感染人類之發生率不高,致死性高④不會造成潛伏感染",
     "options": {
       "A": "1、2",
@@ -3025,7 +2821,6 @@
   {
     "id": "VIR-W05-17",
     "subject": "病毒學",
-    "topic": "病毒學各論",
     "question": "下列有關狂犬病病毒之敘述,何者正確?",
     "options": {
       "A": "禽類不會感染",
@@ -3040,7 +2835,6 @@
   {
     "id": "VIR-W05-18",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "下列有關假性狂犬病的敘述,何者錯誤?",
     "options": {
       "A": "可引起母豬的流死產",
@@ -3055,7 +2849,6 @@
   {
     "id": "VIR-W05-19",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "下列哪一種病毒感染會造成心肌炎?",
     "options": {
       "A": "貓泛白血球減少症病毒",
@@ -3070,7 +2863,6 @@
   {
     "id": "VIR-W05-20",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "關於干擾素之特性,何者錯誤?",
     "options": {
       "A": "可被病毒感染的淋巴細胞所誘發分泌",
@@ -3085,7 +2877,6 @@
   {
     "id": "VIR-W05-21",
     "subject": "病毒學",
-    "topic": "疫苗學",
     "question": "下列何種疾病,已廣泛使用基因缺損之疫苗來有效預防?",
     "options": {
       "A": "豬流行性下痢",
@@ -3100,7 +2891,6 @@
   {
     "id": "VIR-W05-22",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "有關幹擾素(interferon, IFN)的抗病毒作用,下列何者正確?",
     "options": {
       "A": "IFN 本身可直接殺死病毒顆粒",
@@ -3115,7 +2905,6 @@
   {
     "id": "VIR-W05-23",
     "subject": "病毒學",
-    "topic": "疫苗學",
     "question": "在傳染性喉頭氣管炎非地方流行區域,或是未患過本病的養雞場中,原則上並不建議使用活毒疫苗,主要原因為何?",
     "options": {
       "A": "價錢昂貴不符成本",
@@ -3130,7 +2919,6 @@
   {
     "id": "VIR-W05-24",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "下列有關幹擾素之敘述,何者正確?",
     "options": {
       "A": "直接破壞細菌細胞壁及病毒封套",
@@ -3145,7 +2933,6 @@
   {
     "id": "VIR-W05-25",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "對於免疫系統消滅病原體的描述何者錯誤?",
     "options": {
       "A": "自然殺手細胞(natural killer cell) 可藉由抗原特異性受體直接辨識抗原並清除病毒",
@@ -3160,7 +2947,6 @@
   {
     "id": "VIR-W05-26",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "關於T細胞所辨識的抗原,下列敘述何者最不適當?",
     "options": {
       "A": "T細胞所辨識的抗原,通常是短片段的胜肽",
@@ -3175,7 +2961,6 @@
   {
     "id": "VIR-W05-27",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "下列何者不是抗體分子Fc部分的功能?",
     "options": {
       "A": "活化補體",
@@ -3190,7 +2975,6 @@
   {
     "id": "VIR-W05-28",
     "subject": "病毒學",
-    "topic": "病毒致病機制",
     "question": "HIV會造成慢性感染而且引起後天免疫不全症(AIDS)，有關HIV慢性感染的原因,下列何者錯誤?",
     "options": {
       "A": "在HIV感染的過程中,重要的效應細胞及分子(effector cell/molecule),如毒殺型CD8T細胞及對HIV有專一性的抗體都沒有產生",
@@ -3205,7 +2989,6 @@
   {
     "id": "VIR-W05-29",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "關於疱疹病毒的構造,下列敘述何者正確?",
     "options": {
       "A": "核心含有單一、線狀的雙股DNA,位於蛋白質衣殼內",
@@ -3220,7 +3003,6 @@
   {
     "id": "VIR-W05-30",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "關於疱疹病毒(Herpesvirus)的分類與特徵,下列何者正確?",
     "options": {
       "A": "所有疱疹病毒皆具有相似的形態,其基因體為線性雙股DNA(linear dsDNA)。",
@@ -3235,7 +3017,6 @@
   {
     "id": "VIR-W05-31",
     "subject": "病毒學",
-    "topic": "免疫與疫苗",
     "question": "下列哪一種屬於適應性免疫對抗病毒感染的重要機制?",
     "options": {
       "A": "干擾素(Interferon)的產生",
@@ -3250,7 +3031,6 @@
   {
     "id": "VIR-W05-32",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "疱疹病毒最主要的特性是什麼?",
     "options": {
       "A": "只能感染細菌",
@@ -3265,7 +3045,6 @@
   {
     "id": "VIR-W05-33",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "一隻貓曾感染貓皰疹病毒第一型(FHV-1),康復後多年未出現臨床症狀。近期因搬家而產生壓力,隨後再次出現結膜炎。下列何者最能解釋此現象?",
     "options": {
       "A": "病毒已完全被清除,結膜炎是由新病毒自行產生所致",
@@ -3280,7 +3059,6 @@
   {
     "id": "VIR-W05-34",
     "subject": "病毒學",
-    "topic": "疫苗學",
     "question": "下列何種疫苗並不屬於貓的核心疫苗(core vaccines)?",
     "options": {
       "A": "feline panleukopenia virus",
@@ -3295,7 +3073,6 @@
   {
     "id": "VIR-W05-35",
     "subject": "病毒學",
-    "topic": "疫苗學",
     "question": "豬場使用缺失gE醣蛋白的假性狂犬病病毒(PRV) 標記疫苗時,應如何利用DIVA 策略辨識野毒感染?",
     "options": {
       "A": "檢測gE抗體,陽性代表曾感染野毒,陰性代表未接種疫苗。",
@@ -3310,7 +3087,6 @@
   {
     "id": "VIR-W05-36",
     "subject": "病毒學",
-    "topic": "疫苗學",
     "question": "下列關於減毒活毒疫苗(Live attenuated vaccine)與死毒/不活化疫苗(Killed/inactivated vaccine)之特性比較,何者敘述最為正確?",
     "options": {
       "A": "死毒疫苗通常比活毒疫苗更能有效誘發強烈的毒殺性T細胞免疫反應(Cytotoxic T lymphocyte response)",
@@ -3325,7 +3101,6 @@
   {
     "id": "VIR-W05-37",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "關於小病毒科(Parvoviridae)病毒的特性與感染機制,下列敘述何者正確?",
     "options": {
       "A": "病毒基因組為單股DNA (ssDNA),且其複製過程需要依賴正處於細胞分裂S期的細胞",
@@ -3340,7 +3115,6 @@
   {
     "id": "VIR-W06-01",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "下列關於疱疹病毒(Herpesviruses)之敘述,何者正確?",
     "options": {
       "A": "基因組為單股環狀DNA",
@@ -3355,7 +3129,6 @@
   {
     "id": "VIR-W06-02",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "造成貓病毒性鼻氣管炎(Feline viral rhinotracheitis)的主要病原為何?",
     "options": {
       "A": "貓白血病病毒",
@@ -3370,7 +3143,6 @@
   {
     "id": "VIR-W06-03",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "疱疹病毒(Herpesviruses) 其病毒顆粒之最終包膜(Final envelopment)主要是在細胞的哪一個構造形成?",
     "options": {
       "A": "細胞核膜(Nuclear membrane)",
@@ -3385,7 +3157,6 @@
   {
     "id": "VIR-W06-04",
     "subject": "病毒學",
-    "topic": "環狀病毒科",
     "question": "下列關於環狀病毒科(Circoviridae) 病毒基因組敘述,何者正確?",
     "options": {
       "A": "雙股線性DNA",
@@ -3400,7 +3171,6 @@
   {
     "id": "VIR-W06-05",
     "subject": "病毒學",
-    "topic": "環狀病毒科",
     "question": "雞貧血病毒(Chicken anemia virus, CAV)屬於環狀病毒科的Gyrovirus屬,其基因組會編碼一種能誘導淋巴球發生細胞凋亡(Apoptosis)的蛋白質(Apoptin),稱為:",
     "options": {
       "A": "VP1",
@@ -3415,7 +3185,6 @@
   {
     "id": "VIR-W06-06",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "下列何種水禽性疾病耐過後常造成短喙之後遺症?",
     "options": {
       "A": "鵝小病毒症",
@@ -3430,7 +3199,6 @@
   {
     "id": "VIR-W06-07",
     "subject": "病毒學",
-    "topic": "免疫與防禦",
     "question": "宿主對於病毒的防禦主要分為非特異性和特異性兩種,下列何者屬於非特異性防禦?",
     "options": {
       "A": "病毒干擾蛋白",
@@ -3445,7 +3213,6 @@
   {
     "id": "VIR-W06-08",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "下列關於反轉錄病毒(Retrovirus) 基本生物學特性與感染機制的敘述,何者最為正確?",
     "options": {
       "A": "它們的遺傳物質由雙股DNA組成,且在進入宿主細胞後會直接利用宿主細胞的RNA聚合酶進行基因體複製。",
@@ -3460,7 +3227,6 @@
   {
     "id": "VIR-W06-09",
     "subject": "病毒學",
-    "topic": "環狀病毒科",
     "question": "下列關於豬第二型環狀病毒(Porcine circovirus type 2, PCV2)之基因體與致病特性之敘述,何者正確?",
     "options": {
       "A": "其基因體為單股環狀微小DNA (ssDNA),在宿主細胞核內利用滾環式複製(Rolling-circle replication)進行複製,並常伴隨淋巴結肉芽腫性病變。",
@@ -3475,7 +3241,6 @@
   {
     "id": "VIR-W06-10",
     "subject": "病毒學",
-    "topic": "病毒學總論",
     "question": "下列哪一項敘述是錯誤的?",
     "options": {
       "A": "環狀病毒科(Circoviridae)包括鳥類、豬以及可能還有狗的重要病原體。",
@@ -3490,7 +3255,6 @@
   {
     "id": "VIR-W06-11",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "下列關於小病毒科(Parvoviridae) 病毒的敘述,哪一項是正確的?",
     "options": {
       "A": "具有脂質構成的外套膜(Envelope)",
@@ -3505,7 +3269,6 @@
   {
     "id": "VIR-W06-12",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "關於細小病毒科(Parvoviridae)的敘述,下列何者正確?",
     "options": {
       "A": "犬細小病毒主要感染分裂活躍的細胞,因此容易造成腸道隱窩細胞壞死。",
@@ -3520,7 +3283,6 @@
   {
     "id": "VIR-W06-13",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "關於犬細小病毒(CPV)、貓泛白血球減少症病毒(FPV)及豬細小病毒(PPV)的敘述,下列何者正確?",
     "options": {
       "A": "CPV 與FPV均可感染犬與貓,且兩者的宿主範圍完全相同。",
@@ -3535,7 +3297,6 @@
   {
     "id": "VIR-W06-14",
     "subject": "病毒學",
-    "topic": "小RNA病毒科",
     "question": "有關小RNA病毒(picornavirus)之敘述,下列何者錯誤?",
     "options": {
       "A": "其基因體是一負股RNA,病毒顆粒呈二十面體結構",
@@ -3550,7 +3311,6 @@
   {
     "id": "VIR-W06-15",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "有關犬小病毒感染症,何者正確?①腸腺窩細胞壞死及絨毛萎縮②幼犬可能因心肌炎致死③幼犬常會出現小腦萎縮",
     "options": {
       "A": "僅①②",
@@ -3565,7 +3325,6 @@
   {
     "id": "VIR-W06-16",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "犬感染小病毒可在心肌細胞出現那一種包涵體?",
     "options": {
       "A": "嗜鹼性核內",
@@ -3580,7 +3339,6 @@
   {
     "id": "VIR-W06-17",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "有關疱疹病毒(herpesviruses)感染的敘述,下列何者正確?",
     "options": {
       "A": "感染後病毒會被宿主完全清除",
@@ -3595,7 +3353,6 @@
   {
     "id": "VIR-W06-18",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "假性塊狀皮膚病(pseudo-lumpy disease)係由下列何種病毒所引起?",
     "options": {
       "A": "冠狀病毒",
@@ -3610,7 +3367,6 @@
   {
     "id": "VIR-W06-19",
     "subject": "病毒學",
-    "topic": "免疫與防禦",
     "question": "病毒感染細胞後,其製造的細胞內蛋白質會經過下列何者分解成小片段胜肽,再與MHC class I 結合並輸送至細胞表面?",
     "options": {
       "A": "胞內體(endosome)",
@@ -3625,7 +3381,6 @@
   {
     "id": "VIR-W06-20",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "「反轉錄」是指下列哪一種過程?",
     "options": {
       "A": "DNA轉錄成 RNA",
@@ -3640,7 +3395,6 @@
   {
     "id": "VIR-W06-21",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "HIV 主要攻擊人體的哪一個系統?",
     "options": {
       "A": "骨骼系統",
@@ -3655,7 +3409,6 @@
   {
     "id": "VIR-W06-22",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "反轉錄病毒的「整合酶」,主要幫助病毒DNA整合進哪裡?",
     "options": {
       "A": "細胞膜",
@@ -3670,7 +3423,6 @@
   {
     "id": "VIR-W06-23",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "下列關於疱疹病毒(Herpesvirus)的敘述,何者正確?",
     "options": {
       "A": "具有單股RNA基因體(ssRNA)",
@@ -3685,7 +3437,6 @@
   {
     "id": "VIR-W06-24",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "下列關於反轉錄病毒科(Retroviridae)的敘述,何者正確?",
     "options": {
       "A": "反轉錄病毒為不具套膜的雙股RNA病毒,主要感染哺乳類動物。",
@@ -3700,7 +3451,6 @@
   {
     "id": "VIR-W06-25",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "目前最廣泛接受的反轉錄病毒分類,主要依據下列何者?",
     "options": {
       "A": "病毒的基因體序列",
@@ -3715,7 +3465,6 @@
   {
     "id": "VIR-W06-26",
     "subject": "病毒學",
-    "topic": "反轉錄病毒科",
     "question": "反轉錄病毒具有多種重要酵素。下列哪一組「酵素——功能」的配對完全正確?",
     "options": {
       "A": "反轉錄酶——將病毒DNA整合至宿主染色體",
@@ -3730,7 +3479,6 @@
   {
     "id": "VIR-W06-27",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "下列何者不是canine herpesvirus-1感染機制與肺臟特徵性病變?",
     "options": {
       "A": "為高致死性的幼犬呼吸道疾病",
@@ -3745,7 +3493,6 @@
   {
     "id": "VIR-W06-28",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "有關犬皰疹病毒第一型(Canine herpesvirus 1, CHV-1)之敘述,下列何者正確?",
     "options": {
       "A": "最常引起新生幼犬的致命性全身性出血綜合症",
@@ -3760,7 +3507,6 @@
   {
     "id": "VIR-W06-29",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "下列關於犬小病毒(CPV)與貓瘟病毒(FPV)所屬之「小病毒科(Parvoviridae)」特性之敘述,何者錯誤?",
     "options": {
       "A": "病毒遺傳物質為單股DNA(ssDNA),且病毒粒子具外套膜(enveloped)",
@@ -3775,7 +3521,6 @@
   {
     "id": "VIR-W06-30",
     "subject": "病毒學",
-    "topic": "疱疹病毒科",
     "question": "關於疱疹病毒目(Herpesvirales)的結構與複製特性,下列描述何者正確?",
     "options": {
       "A": "為無包膜(non-enveloped)的單股DNA病毒",
@@ -3790,7 +3535,6 @@
   {
     "id": "VIR-W06-31",
     "subject": "病毒學",
-    "topic": "細小病毒科",
     "question": "幼貓感染貓泛白血球減少病毒(FPV)若發生於懷孕後期或新生期,最典型的神經系統病變為何?",
     "options": {
       "A": "水腦症(Hydrocephalus)",
@@ -3802,4 +3546,4 @@
     "explanation": "貓泛白血球減少病毒(FPV)嗜感染高度分裂細胞，新生貓小腦外顆粒層細胞正處於分裂期，感染會導致典型的小腦發育不全(Cerebellar hypoplasia)。",
     "source": "病毒學題庫_第6週_校正版.pdf"
   }
-]
+  ]
